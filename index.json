@@ -1,0 +1,45 @@
+{
+    "@type": "WebPage",
+    "@id": "https://bitxfunding.com/startup-business-loans/#webpage",
+    "url": "https://bitxfunding.com/startup-business-loans/",
+    "name": "Startup Business Loans and Start Business Funding - BitX Funding",
+    "isPartOf": {
+        "@id": "https://bitxfunding.com/#website"
+    },
+    "datePublished": "2017-09-30T14:01:11+00:00",
+    "dateModified": "2021-10-21T16:54:37+00:00",
+    "description": "Do you need startup business loans? BitX Funding can help you secure the funding $25,000 – $150,000+ in startup business loans and unsecured business lines of credit",
+    "breadcrumb": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                    "@id": "https://bitxfunding.com/",
+                    "name": "Home"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                    "@id": "https://bitxfunding.com/startup-business-loans/",
+                    "name": "Startup Business Loans"
+                }
+            }
+        ]
+    },
+    "inLanguage": "en-US",
+    "potentialAction": [
+        {
+            "@type": "ReadAction",
+            "target": [
+                "https://bitxfunding.com/startup-business-loans/"
+            ]
+        }
+    ],
+    "lastReviewed": "2022-01-30",
+    "primaryImageOfPage": ""
+}
