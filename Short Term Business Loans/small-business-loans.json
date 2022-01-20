@@ -1,24 +1,68 @@
+<script type="application/ld+json">
 {
-    "@context": "http://www.schema.org/",
-    "@type": "FinancialService",
-    "name": "BitX Funding - Small Business Loans and Business Lines of Credit",
-    "legalName": "BitX Funding, L.L.C.",
-    "brand": "BitX Funding",
-    "alternateName": "BitX Funding - Alternative Small Business Loans",
-    "slogan": "Small Business Loans and Business Lines of Credit",
-    "telephone": "800-824-2407",
-    "faxNumber": "800-826-6403",
-    "email": "info@bitxfunding.com",
+    "@context":"https://schema.org",
+    "@type":"LoanOrCredit",
+    "name":"Short-Term Small Business Loans",
+    "loanType": "https://bitxfunding.com/short-term-business-loans/",
+    "category": "https://bitxfunding.com/short-term-business-loans/",
+
+    "brand": {
+        "@type": "FinancialService",
+        "name": "BitX Funding",
+    },
+    "broker": {
+        "@type": "FinancialService",
+        "name": "BitX Funding",
+    },
+
+    "url": "https://bitxfunding.com/short-term-business-loans/",
+    "logo": "https://bitxfunding.com/wp-content/themes/BitX/library/images/logo.png",
+    "image": "https://bitxfunding.com/wp-content/themes/BitX/library/images/logo.png",
+    "photo": "https://bitxfunding.com/wp-content/themes/BitX/library/images/logo.png",
+    "description": "BitX Funding is your premier lender for short-term small business loans, unsecured business loans, and small business loans that have automatic payments that take place daily or weekly. When financing an upcoming project with immediate return on your investment, our short-term small business loans may be the perfect option for you. Typical projects these loans are used for include remodeling your location, inventory deals, hiring employees for extra help, or marketing campaigns. Our loans range from $5,000 to $500,000 with terms from 3 months to 24 months.",
+    
+    "audience": {
+        "@type": "Audience",
+        "name": "Small businesses"
+    },
+
+    "loanTerm": 
+    {
+        "@type":"QuantitativeValue",
+        "minValue":"3",
+        "maxValue":"36",
+        "unitCode": "MON"
+    },
+    "annualPercentageRate":
+    {
+        "@type":"QuantitativeValue",
+        "name": "fixed interest rates",
+        "description": "Lowest annual interest rate (AIR)*",
+        "value":"9.99"
+    },
+    "interestRate":
+    {
+        "@type":"QuantitativeValue",
+        "name": "fixed interest rates",
+        "description": "Lowest annual interest rate (AIR)*",
+        "value":"9.99"
+    },
+    "amount":
+    {
+        "@type": "MonetaryAmount",
+        "name":"Estimated loan 10% of your annual revenue",
+        "minValue":"5000",
+        "maxValue":"500000",
+        "currency":"USD"
+    },
+    "feesAndCommissionsSpecification": "https://bitxfunding.com/short-term-business-loans/",
+    "renegotiableLoan": "False",
+    "requiredCollateral": "False",
     "aggregateRating": {
         "@type": "AggregateRating",
         "ratingValue": "4.9",
         "reviewCount": "48"
     },
-    "url": "https://bitxfunding.com/",
-    "logo": "https://bitxfunding.com/wp-content/themes/BitX/library/images/logo.png",
-    "image": "https://bitxfunding.com/wp-content/themes/BitX/library/images/logo.png",
-    "photo": "https://bitxfunding.com/wp-content/themes/BitX/library/images/logo.png",
-    "description": "BitX Funding is your online marketplace for alternative small business loans and business insurance. From SBA, start-up lines of credit, short-term loans, mid-term loans to merchant cash advances and business lines of credit, BitX is where lenders compete for your business. Our top-rated lenders focus on real-life business data and cash flow, which means you can qualify for small business loans even if your credit score isn't perfect. We care about small business and it's our mission to secure the right funding when you need alternative small business loans within our small business loan marketplace. Applying is Easy, Fast and Free… Get started to see what your business qualifies for!",
     "address": {
         "@type": "PostalAddress",
         "streetAddress": "1700 Post Rd Suite B-10",
@@ -42,6 +86,7 @@
     },
     "hasMap": "https://www.google.com/maps/place/BitX+Funding/@41.1413029,-73.2613782,15z/data=!4m5!3m4!1s0x0:0x9e2ab3f0d51d50d0!8m2!3d41.1413029!4d-73.2613782",
     "openingHours": "Mo, Tu, We, Th 08:00-05:00",
+    "hoursAvailable": "Mo, Tu, We, Th 08:00-05:00",
     "contactPoint": {
         "@type": "ContactPoint",
         "telephone": "+1 (800) 824-2407",
@@ -50,6 +95,69 @@
     "currenciesAccepted": "USD",
     "paymentAccepted": "Cash, Credit Card",
     "priceRange": "$$$",
+
+    "availableChannel": {
+        "name": "BitX Funding - Small Business Loans and Business Lines of Credit",
+        "description": "BitX Funding is your online marketplace for alternative small business loans and business insurance. From SBA, start-up lines of credit, short-term loans, mid-term loans to merchant cash advances and business lines of credit, BitX is where lenders compete for your business. Our top-rated lenders focus on real-life business data and cash flow, which means you can qualify for small business loans even if your credit score isn't perfect. We care about small business and it's our mission to secure the right funding when you need alternative small business loans within our small business loan marketplace. Applying is Easy, Fast and Free… Get started to see what your business qualifies for!",
+        "availableLanguage": "EN",
+        "servicePostalAddress": {
+            "@type": "PostalAddress",
+            "streetAddress": "1700 Post Rd Suite B-10",
+            "addressLocality": "Fairfield",
+            "addressRegion": "CT ",
+            "postalCode": "06824",
+            "addressCountry": "United States"
+        },
+        "servicePhone": "800-824-2407",
+        "serviceUrl": "https://bitxfunding.com/contact/",
+        "url": "https://bitxfunding.com/",
+        "logo": "https://bitxfunding.com/wp-content/themes/BitX/library/images/logo.png",
+        "image": "https://bitxfunding.com/wp-content/themes/BitX/library/images/logo.png",
+        "photo": "https://bitxfunding.com/wp-content/themes/BitX/library/images/logo.png",
+        "processingTime": "P0Y0M0DT24H0M0S",
+        "potentialAction": 
+        [
+            {
+                "@type": "CommunicateAction",
+                "actionStatus": "potentialActionStatus",
+                "object": "Call",
+                "name": "Call BitX Funding",
+                "description": "Make a telephone call BitX Funding",
+                "target": {
+                    "URL": "tel:+1-800-824-2407"
+                },
+                "url": "https://bitxfunding.com/contact/",
+                "result": "Has called BitX Funding"
+            },
+            {
+                "@type": "CommunicateAction",
+                "actionStatus": "potentialActionStatus",
+                "object": "Email",
+                "name": "Email the BitX Funding",
+                "description": "Send an email to BitX Funding",
+                "target": {
+                    "URL": "mailto:info@bitxfunding.com"
+                },
+                "url": "https://bitxfunding.com/contact/",
+                "result": "Has emailed the BitX Funding"
+            },
+            {
+                "@type": "CommunicateAction",
+                "actionStatus": "potentialActionStatus",
+                "object": "Request Consultation",
+                "name": "Request Consultation",
+                "description": "Request consultation with BitX Funding",
+                "target": {
+                    "httpMethod": "GET",
+                    "URL": "https://bitxfunding.com/contact/"
+                },
+                "url": "https://bitxfunding.com/contact/",
+                "result": "Has requested a consultation with BitX Funding"
+            }
+        ]
+    },
+
+    
     "potentialAction": [
         {
             "@type": "CommunicateAction",
@@ -60,7 +168,7 @@
             "target": {
                 "URL": "tel:+1-800-824-2407"
             },
-            "mainEntityOfPage": "https://bitxfunding.com/contact/",
+            "url": "https://bitxfunding.com/contact/",
             "result": "Has called BitX Funding"
         },
         {
@@ -72,7 +180,7 @@
             "target": {
                 "URL": "mailto:info@bitxfunding.com"
             },
-            "mainEntityOfPage": "https://bitxfunding.com/contact/",
+            "url": "https://bitxfunding.com/contact/",
             "result": "Has emailed the BitX Funding"
         },
         {
@@ -85,7 +193,7 @@
                 "httpMethod": "GET",
                 "URL": "https://bitxfunding.com/contact/"
             },
-            "mainEntityOfPage": "https://bitxfunding.com/contact/",
+            "url": "https://bitxfunding.com/contact/",
             "result": "Has requested a consultation with BitX Funding"
         }
     ],
@@ -167,15 +275,11 @@
         "addressCountry": "United States"
     },
     "feesAndCommissionsSpecification": "https://bitxfunding.com/small-business-loans/",
-
-
     "hasOfferCatalog": {
         "@type": "OfferCatalog",
         "name": "OUR SERVICES",
         "itemListElement": []
     },
-
-	
     "hasCredential": {
         "@type": "EducationalOccupationalCredential",
         "name": "A+ Better Business Bureau Accreditation Rating",
@@ -199,3 +303,4 @@
     "numberOfEmployees": "10",
     "smokingAllowed": "False"
 }
+</script>
