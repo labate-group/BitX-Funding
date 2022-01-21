@@ -404,7 +404,7 @@
     "hasCredential": {
         "@type": "EducationalOccupationalCredential",
         "name": "A+ Better Business Bureau Accreditation Rating",
-        "description": "Labate is A+ accredited with the Better Business Bureau",
+        "description": "BitX Funding L.L.C. is A+ accredited with the Better Business Bureau",
         "url": "https://www.bbb.org/us/ct/fairfield/profile/small-business-loans/bitx-funding-llc-0111-87118434",
         "credentialCategory": {
             "@type": "DefinedTerm",
