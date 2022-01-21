@@ -1,42 +1,44 @@
+/*
+	https://search.google.com/test/rich-results/result?id=arTECcE8RS-CqYV2JieOMg
+*/
+
 {
-	"@context": "http://www.schema.org/",
 	"@type": "LoanOrCredit",
-	"name": "Amazon Inventory Financing",
-	"loanType": "https://bitxfunding.com/amazon-inventory-financing/",
-	"category": "Amazon Inventory Financing",
-	"url": "https://bitxfunding.com/amazon-inventory-financing/",
+	"name": "Equipment Financing",
+	"loanType": "https://bitxfunding.com/equipment-financing/",
+	"category": "Equipment Financing",
+	"url": "https://bitxfunding.com/equipment-financing/",
 	"logo": "https://bitxfunding.com/wp-content/themes/BitX/library/images/logo.png",
 	"image": "https://bitxfunding.com/wp-content/themes/BitX/library/images/logo.png",
-	"description": "With BitX Funding you can get access to a large inventory line of credit to grow your business. With Amazon you are capped at $1 million in available credit so how can you grow your inventory from there? You can’t unless you are taking out expensive MCAs that steal all your profit margin. At BitX Funding, we will provide you with proven Amazon inventory financing for Amazon Power Sellers to grow past $1 million in inventory.",
+	"description": "Business equipment financing helps you finance up to 100% of the new or used equipment you need for your business. Applying for an equipment loan is typically a fast and easy way to finance the purchase of most types of equipment—computers, machinery, vehicles, or whatever else you need.",
+	"loanTerm": {
+		"@type": "QuantitativeValue",
+		"value": "10+",
+		"unitCode": "ANN"
+	},
 	"annualPercentageRate": {
 		"@type": "QuantitativeValue",
-		"name": "Lowest annual interest rate (AIR)*",
-		"description": "Lowest annual interest rate (AIR)*",
+		"name": "Lowest annual interest rate APR",
+		"description": "Lowest annual interest rate APR",
 		"minValue": "8.00",
-		"maxValue": "15.00"
+		"maxValue": "30.00"
 	},
 	"interestRate": {
 		"@type": "QuantitativeValue",
-		"name": "Lowest annual interest rate (AIR)*",
-		"description": "Lowest annual interest rate (AIR)*",
+		"name": "Lowest annual interest rate APR",
+		"description": "Lowest annual interest rate APR",
 		"minValue": "8.00",
-		"maxValue": "15.00"
+		"maxValue": "30.00"
 	},
 	"amount": {
 		"@type": "MonetaryAmount",
-		"name": "With Amazon you are capped at $1 million in available credit so how can you grow your inventory from there?",
-		"minValue": "500000",
-		"maxValue": "20000000",
+		"name": "Maximum Loan Amount - Up to 100% of equipment value",
+		"value": "Up to 100% of equipment value",
 		"currency": "USD"
 	},
-	"feesAndCommissionsSpecification": "https://bitxfunding.com/amazon-inventory-financing/",
+	"feesAndCommissionsSpecification": "https://bitxfunding.com/equipment-financing/",
 	"renegotiableLoan": "False",
 	"requiredCollateral": "False",
-	"aggregateRating": {
-		"@type": "AggregateRating",
-		"ratingValue": "4.9",
-		"reviewCount": "48"
-	},
 	"hoursAvailable": "Mo, Tu, We, Th 08:00-05:00",
 	"availableChannel": {
 		"name": "BitX Funding - Small Business Loans and Business Lines of Credit",

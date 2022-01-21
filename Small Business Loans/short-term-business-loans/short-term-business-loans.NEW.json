@@ -1,30 +1,36 @@
+/*
+	https://search.google.com/test/rich-results/result?id=ylLKtraIKUyPSAt3AlO0gw
+*/
+
 {
 	"@context": "http://www.schema.org/",
 	"@type": "LoanOrCredit",
-	"name": "Merchant Cash Advance",
-	"loanType": "https://bitxfunding.com/merchant-cash-advance/",
-	"category": "Merchant Cash Advance",
-	"url": "https://bitxfunding.com/merchant-cash-advance/",
+	"name": "Short-Term Small Business Loans",
+	"loanType": "https://bitxfunding.com/short-term-business-loans/",
+	"category": "Short-Term Small Business Loans",
+	"url": "https://bitxfunding.com/short-term-business-loans/",
 	"logo": "https://bitxfunding.com/wp-content/themes/BitX/library/images/logo.png",
 	"image": "https://bitxfunding.com/wp-content/themes/BitX/library/images/logo.png",
-	"description": "BitX Funding is a lending partner that offers true Merchant Cash Advance with automatic fixed or percentage of sales daily or weekly payments via ACH Debit from merchant’s business bank account . If you're looking to finance a project that has an immediate return on investment such as updating or refreshing your location, inventory deals with a quick turnaround, marketing campaigns, seasonal hiring, or high demand inventory a Merchant Cash Advance loans are for you. They range from $5,000 to $500,000 with terms of 6 to 18 months and the cost of capital varies by term. Call to find out today if you are pre-approved.",
+	"description": "BitX Funding is your premier lender for short-term small business loans, unsecured business loans, and small business loans that have automatic payments that take place daily or weekly. When financing an upcoming project with immediate return on your investment, our short-term small business loans may be the perfect option for you. Typical projects these loans are used for include remodeling your location, inventory deals, hiring employees for extra help, or marketing campaigns. Our loans range from $5,000 to $500,000 with terms from 3 months to 24 months.",
 	"loanTerm": {
 		"@type": "QuantitativeValue",
-		"minValue": "6",
-		"maxValue": "18",
-		"unitCode": "MON"
+		"minValue": "3",
+		"maxValue": "36",
+		"unitCode": "MON",
+		"name": "Short and long term payback",
+		"description": "Short and long term payback"
 	},
 	"annualPercentageRate": {
 		"@type": "QuantitativeValue",
-		"name": "Lowest annual interest rate (APR",
-		"description": "Lowest annual interest rate (APR)",
-		"value": "6.98"
+		"name": "Lowest annual interest rate (AIR)*",
+		"description": "Lowest annual interest rate (AIR)*",
+		"value": "9.99"
 	},
 	"interestRate": {
 		"@type": "QuantitativeValue",
-		"name": "Lowest annual interest rate (APR",
-		"description": "Lowest annual interest rate (APR)",
-		"value": "6.98"
+		"name": "Lowest annual interest rate (AIR)*",
+		"description": "Lowest annual interest rate (AIR)*",
+		"value": "9.99"
 	},
 	"amount": {
 		"@type": "MonetaryAmount",
@@ -33,14 +39,9 @@
 		"maxValue": "500000",
 		"currency": "USD"
 	},
-	"feesAndCommissionsSpecification": "https://bitxfunding.com/merchant-cash-advance/",
+	"feesAndCommissionsSpecification": "https://bitxfunding.com/short-term-business-loans/",
 	"renegotiableLoan": "False",
 	"requiredCollateral": "False",
-	"aggregateRating": {
-		"@type": "AggregateRating",
-		"ratingValue": "4.9",
-		"reviewCount": "48"
-	},
 	"hoursAvailable": "Mo, Tu, We, Th 08:00-05:00",
 	"availableChannel": {
 		"name": "BitX Funding - Small Business Loans and Business Lines of Credit",

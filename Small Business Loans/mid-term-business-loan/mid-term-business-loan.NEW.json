@@ -1,41 +1,46 @@
+/*
+	https://search.google.com/test/rich-results/result?id=koh9XvBW8tisc4HK1XTpPw
+*/
+
 {
 	"@context": "http://www.schema.org/",
 	"@type": "LoanOrCredit",
-	"name": "Business Line of Credit",
-	"loanType": "https://bitxfunding.com/business-line-of-credit/",
-	"category": "https://bitxfunding.com/business-line-of-credit/",
-	"url": "https://bitxfunding.com/business-line-of-credit/",
+	"name": "Mid-Term Loan",
+	"loanType": "https://bitxfunding.com/mid-term-business-loan/",
+	"category": "Mid-Term Business Loan",
+	"url": "https://bitxfunding.com/mid-term-business-loan/",
 	"logo": "https://bitxfunding.com/wp-content/themes/BitX/library/images/logo.png",
 	"image": "https://bitxfunding.com/wp-content/themes/BitX/library/images/logo.png",
-	"description": "Business lines of credit allow you to draw funds whenever you need and only pay interest on funds that are put to work. Funds will be deposited directly into your bank account. Repay via automated weekly debts over 12 months. Your available balance replenishes as payments clear. Lines of credit can go as high as $100,000 with interest rates averaging around 10%.",
+	"description": "BitX Funding offers you medium-term business loans with automatic monthly payments, making the payback process even easier. If you’re looking for loan options for larger projects, while allowing you to pay back over a longer term with rates as low as 4.99%, our medium-term business loans might be right for you. Term options are 12 to 60 months with traditional monthly payments and unsecured loans starting at $25,000 to $500,000.",
+	"loanTerm": {
+		"@type": "QuantitativeValue",
+		"minValue": "12",
+		"maxValue": "60",
+		"unitCode": "MON",
+		"description": "Short and long term payback"
+	},
 	"annualPercentageRate": {
 		"@type": "QuantitativeValue",
-		"name": "5.99% - 20.0% APR. Your line amount and rate will be based on your business and personal credit",
-		"description": "5.99% - 20.0% APR. Your line amount and rate will be based on your business and personal credit",
-		"minValue": "5.99",
-		"maxValue": "20.00"
+		"name": "Lowest annual interest rate (APR)*",
+		"description": "Lowest annual interest rate (APR)*",
+		"value": "4.99"
 	},
 	"interestRate": {
 		"@type": "QuantitativeValue",
-		"name": "5.99% - 20.0% APR. Your line amount and rate will be based on your business and personal credit",
-		"description": "5.99% - 20.0% APR. Your line amount and rate will be based on your business and personal credit",
-		"minValue": "5.99",
-		"maxValue": "20.00"
+		"name": "Lowest annual interest rate (APR)*",
+		"description": "Lowest annual interest rate (APR)*",
+		"value": "4.99"
 	},
 	"amount": {
 		"@type": "MonetaryAmount",
 		"name": "Estimated loan 10% of your annual revenue",
-		"minValue": "5000",
-		"maxValue": "250000",
+		"minValue": "25000",
+		"maxValue": "500000",
 		"currency": "USD"
 	},
-	"feesAndCommissionsSpecification": "https://bitxfunding.com/business-line-of-credit/",
+	"feesAndCommissionsSpecification": "https://bitxfunding.com/mid-term-business-loan/",
 	"renegotiableLoan": "False",
-	"aggregateRating": {
-		"@type": "AggregateRating",
-		"ratingValue": "4.9",
-		"reviewCount": "48"
-	},
+	"requiredCollateral": "False",
 	"hoursAvailable": "Mo, Tu, We, Th 08:00-05:00",
 	"availableChannel": {
 		"name": "BitX Funding - Small Business Loans and Business Lines of Credit",

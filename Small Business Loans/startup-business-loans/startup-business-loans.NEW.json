@@ -1,39 +1,39 @@
+/*
+	https://search.google.com/test/rich-results/result?id=OFDjB7t7rrKvrIGD4Yuw6g
+*/
+
 {
 	"@context": "http://www.schema.org/",
 	"@type": "LoanOrCredit",
-	"name": "SBA Loans",
-	"loanType": "https://bitxfunding.com/sba-business-loans/",
-	"category": "SBA Loans",
-	"url": "https://bitxfunding.com/sba-business-loans/",
+	"name": "Startup Business Loans",
+	"loanType": "https://bitxfunding.com/startup-business-loans/",
+	"category": "https://bitxfunding.com/startup-business-loans/",
+	"url": "https://bitxfunding.com/startup-business-loans/",
 	"logo": "https://bitxfunding.com/wp-content/themes/BitX/library/images/logo.png",
 	"image": "https://bitxfunding.com/wp-content/themes/BitX/library/images/logo.png",
-	"description": "There are various SBA Loans programs available to small business owners, but navigating through them all is cumbersome and time-consuming. BitX Funding has relationships with several lenders offering SBA Loans and will guide you through the process saving you time, money and energy. To qualify no start-ups, 2 years in business, 1.25 debt service ratio, 650 FICO +, for-profit companies and are looking for 30K to 5 Million in funding.",
-	"loanTerm": {
-		"@type": "QuantitativeValue",
-		"minValue": "10",
-		"maxValue": "25",
-		"unitCode": "ANN"
-	},
+	"description": "BitX Funding startup business loan program connects entrepreneurs and business owners with $25,000 – $150,000+ in startup business loans and unsecured business lines of credit. This startup business funding program can provide you with a startup business loan in as little as 10 days and is typically offered with 0% interest financing for the first 6-18 months.",
 	"annualPercentageRate": {
 		"@type": "QuantitativeValue",
 		"name": "Lowest annual interest rate APR",
 		"description": "Lowest annual interest rate APR",
-		"value": "5.75"
+		"minValue": "0.00",
+		"maxValue": "15.00"
 	},
 	"interestRate": {
 		"@type": "QuantitativeValue",
 		"name": "Lowest annual interest rate APR",
 		"description": "Lowest annual interest rate APR",
-		"value": "5.75"
+		"minValue": "0.00",
+		"maxValue": "15.00"
 	},
 	"amount": {
 		"@type": "MonetaryAmount",
-		"name": "Estimated loan 10% of your annual revenue",
-		"minValue": "30000",
-		"maxValue": "500000",
+		"name": "Line is based on your credit profile",
+		"minValue": "25000",
+		"maxValue": "150000",
 		"currency": "USD"
 	},
-	"feesAndCommissionsSpecification": "https://bitxfunding.com/sba-business-loans/",
+	"feesAndCommissionsSpecification": "https://bitxfunding.com/startup-business-loans/",
 	"renegotiableLoan": "False",
 	"requiredCollateral": "False",
 	"hoursAvailable": "Mo, Tu, We, Th 08:00-05:00",
@@ -45,7 +45,7 @@
 			"@type": "PostalAddress",
 			"streetAddress": "1700 Post Rd Suite B-10",
 			"addressLocality": "Fairfield",
-			"addressRegion": "CT ",
+			"addressRegion": "CT",
 			"postalCode": "06824",
 			"addressCountry": "United States"
 		},

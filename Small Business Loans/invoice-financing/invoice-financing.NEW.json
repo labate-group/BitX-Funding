@@ -1,3 +1,7 @@
+/*
+	https://search.google.com/test/rich-results/result?id=hDzVXG10J3h7aVw_A2iqEw
+*/
+
 {
 	"@context": "http://www.schema.org/",
 	"@type": "LoanOrCredit",
@@ -31,11 +35,6 @@
 	"feesAndCommissionsSpecification": "https://bitxfunding.com/invoice-financing/",
 	"renegotiableLoan": "False",
 	"requiredCollateral": "False",
-	"aggregateRating": {
-		"@type": "AggregateRating",
-		"ratingValue": "4.9",
-		"reviewCount": "48"
-	},
 	"hoursAvailable": "Mo, Tu, We, Th 08:00-05:00",
 	"availableChannel": {
 		"name": "BitX Funding - Small Business Loans and Business Lines of Credit",
