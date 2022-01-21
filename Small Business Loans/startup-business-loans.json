@@ -10,21 +10,21 @@
 	"description": "BitX Funding startup business loan program connects entrepreneurs and business owners with $25,000 – $150,000+ in startup business loans and unsecured business lines of credit. This startup business funding program can provide you with a startup business loan in as little as 10 days and is typically offered with 0% interest financing for the first 6-18 months.",
 	"annualPercentageRate": {
 		"@type": "QuantitativeValue",
-		"name": "fixed interest rates",
-		"description": "Lowest annual interest rate APR ",
+		"name": "Lowest annual interest rate APR",
+		"description": "Lowest annual interest rate APR",
 		"minValue": "0.00",
 		"maxValue": "15.00"
 	},
 	"interestRate": {
 		"@type": "QuantitativeValue",
-		"name": "fixed interest rates",
-		"description": "Lowest annual interest rate APR ",
+		"name": "Lowest annual interest rate APR",
+		"description": "Lowest annual interest rate APR",
 		"minValue": "0.00",
 		"maxValue": "15.00"
 	},
 	"amount": {
 		"@type": "MonetaryAmount",
-		"name": "Estimated loan 10% of your annual revenue",
+		"name": "Line is based on your credit profile",
 		"minValue": "25000",
 		"maxValue": "150000",
 		"currency": "USD"
@@ -32,38 +32,7 @@
 	"feesAndCommissionsSpecification": "https://bitxfunding.com/startup-business-loans/",
 	"renegotiableLoan": "False",
 	"requiredCollateral": "False",
-	"address": {
-		"@type": "PostalAddress",
-		"streetAddress": "1700 Post Rd Suite B-10",
-		"addressLocality": "Fairfield",
-		"addressRegion": "CT ",
-		"postalCode": "06824",
-		"addressCountry": "United States"
-	},
-	"location": {
-		"@type": "PostalAddress",
-		"streetAddress": "1700 Post Rd Suite B-10",
-		"addressLocality": "Fairfield",
-		"addressRegion": "CT ",
-		"postalCode": "06824",
-		"addressCountry": "United States"
-	},
-	"geo": {
-		"@type": "GeoCoordinates",
-		"latitude": "41.1413029",
-		"longitude": "-73.2613782"
-	},
-	"hasMap": "https://www.google.com/maps/place/BitX+Funding/@41.1413029,-73.2613782,15z/data=!4m5!3m4!1s0x0:0x9e2ab3f0d51d50d0!8m2!3d41.1413029!4d-73.2613782",
-	"openingHours": "Mo, Tu, We, Th 08:00-05:00",
 	"hoursAvailable": "Mo, Tu, We, Th 08:00-05:00",
-	"contactPoint": {
-		"@type": "ContactPoint",
-		"telephone": "+1 (800) 824-2407",
-		"contactType": "General"
-	},
-	"currenciesAccepted": "USD",
-	"paymentAccepted": "Cash, Credit Card",
-	"priceRange": "$$$",
 	"availableChannel": {
 		"name": "BitX Funding - Small Business Loans and Business Lines of Credit",
 		"description": "BitX Funding is your online marketplace for alternative small business loans and business insurance. From SBA, start-up lines of credit, short-term loans, mid-term loans to merchant cash advances and business lines of credit, BitX is where lenders compete for your business. Our top-rated lenders focus on real-life business data and cash flow, which means you can qualify for small business loans even if your credit score isn't perfect. We care about small business and it's our mission to secure the right funding when you need alternative small business loans within our small business loan marketplace. Applying is Easy, Fast and Free… Get started to see what your business qualifies for!",
@@ -72,16 +41,14 @@
 			"@type": "PostalAddress",
 			"streetAddress": "1700 Post Rd Suite B-10",
 			"addressLocality": "Fairfield",
-			"addressRegion": "CT ",
+			"addressRegion": "CT",
 			"postalCode": "06824",
 			"addressCountry": "United States"
 		},
 		"servicePhone": "800-824-2407",
 		"serviceUrl": "https://bitxfunding.com/contact/",
 		"url": "https://bitxfunding.com/",
-		"logo": "https://bitxfunding.com/wp-content/themes/BitX/library/images/logo.png",
 		"image": "https://bitxfunding.com/wp-content/themes/BitX/library/images/logo.png",
-		"photo": "https://bitxfunding.com/wp-content/themes/BitX/library/images/logo.png",
 		"processingTime": "P0Y0M0DT24H0M0S",
 		"potentialAction": [
 			{
@@ -162,63 +129,6 @@
 			"result": "Has requested a consultation with BitX Funding"
 		}
 	],
-	"founder": {
-		"@type": "Person",
-		"name": "Todd Rowe",
-		"affiliation": {
-			"@type": "FinancialService",
-			"name": "BitX Funding - Small Business Loans and Business Lines of Credit",
-			"legalName": "BitX Funding, L.L.C.",
-			"brand": "BitX Funding",
-			"url": "https://bitxfunding.com/",
-			"logo": "https://bitxfunding.com/wp-content/themes/BitX/library/images/logo.png"
-		},
-		"alumniOf": [
-			{
-				"@type": "FinancialService",
-				"name": "Paychex",
-				"legalName": "Paychex Inc.",
-				"brand": "Paychex",
-				"url": "https://www.paychex.com/",
-				"logo": "https://www.paychex.com/themes/custom/paychex2/images/svg/logo-paychex.svg"
-			},
-			{
-				"@type": "FinancialService",
-				"name": "OnDeck Capital",
-				"legalName": "OnDeck Capital, Inc.",
-				"brand": "OnDeck Capital",
-				"url": "https://www.ondeck.com/",
-				"logo": "https://www.ondeck.com/wp-content/uploads/2016/09/press2-300x300.png"
-			},
-			{
-				"@type": "FinancialService",
-				"name": "TriNet",
-				"legalName": "TriNet, Inc.",
-				"brand": "TriNet",
-				"url": "https://www.trinet.com/",
-				"logo": "https://www.trinet.com/assets/img/content/email/trinet-email-logo.jpg"
-			},
-			{
-				"@type": "Organization",
-				"name": "Sprint - T-Mobile",
-				"url": "https://www.t-mobile.com",
-				"logo": "https://cdn.tmobile.com/content/dam/t-mobile/ntm/branding/logos/corporate/tmo-logo-v3.svg"
-			},
-			{
-				"@type": "Organization",
-				"name": "New England College",
-				"url": "https://www.nec.edu",
-				"logo": "https://44iofm20tyvs2xet4b3sk1yt-wpengine.netdna-ssl.com/wp-content/uploads/2021/01/logo.svg"
-			}
-		],
-		"memberOf": {
-			"@type": "Organization",
-			"name": "Fairfield Chamber of Commerce",
-			"description": "Fairfield Chamber of Commerce Board Member.",
-			"url": "http://fairfieldctchamber.com/",
-			"logo": "https://fairfieldctchamber.com/wp-content/themes/ffchamber-child/images/logo.png"
-		}
-	},
 	"areaServed": [
 		{
 			"@type": "Place",
@@ -234,29 +144,5 @@
 				"addressCountry": "Canada"
 			}
 		}
-	],
-	"foundingLocation": {
-		"@type": "Place",
-		"address": {
-			"@type": "PostalAddress",
-			"addressCountry": "Canada"
-		}
-	},
-	"hasCredential": {
-		"@type": "EducationalOccupationalCredential",
-		"name": "A+ Better Business Bureau Accreditation Rating",
-		"description": "Labate is A+ accredited with the Better Business Bureau",
-		"url": "https://www.bbb.org/us/ct/fairfield/profile/small-business-loans/bitx-funding-llc-0111-87118434",
-		"credentialCategory": {
-			"@type": "DefinedTerm",
-			"name": "Accredited"
-		},
-		"competencyRequired": {
-			"@type": "DefinedTerm",
-			"name": "BBB Accreditation Standards",
-			"url": "https://www.bbb.org/bbb-accreditation-standards"
-		}
-	},
-	"numberOfEmployees": "10",
-	"smokingAllowed": "False"
+	]
 }
