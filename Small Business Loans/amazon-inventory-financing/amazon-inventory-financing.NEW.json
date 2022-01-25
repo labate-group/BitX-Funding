@@ -3,7 +3,7 @@
 	"@graph": [
 		{
 			"@type": "LoanOrCredit",
-			"name": "Amazon Inventory Financing",
+			"name": "Amazon Inventory Financing - BitX Funding",
 			"loanType": "https://bitxfunding.com/amazon-inventory-financing/",
 			"category": "Amazon Inventory Financing",
 			"url": "https://bitxfunding.com/amazon-inventory-financing/",
@@ -25,7 +25,6 @@
 				"caption": "BitX Funding"
 			},
 			"image": "https://bitxfunding.com/wp-content/uploads/2016/01/lOGO-3.png",
-			"photo": "https://bitxfunding.com/wp-content/uploads/2016/01/lOGO-3.png",
 			"description": "With BitX Funding you can get access to a large inventory line of credit to grow your business. With Amazon you are capped at $1 million in available credit so how can you grow your inventory from there? You can’t unless you are taking out expensive MCAs that steal all your profit margin. At BitX Funding, we will provide you with proven Amazon inventory financing for Amazon Power Sellers to grow past $1 million in inventory.",
 			"annualPercentageRate": {
 				"@type": "QuantitativeValue",
@@ -183,6 +182,50 @@
 						"@id": "https://bitxfunding.com/amazon-inventory-financing/",
 						"name": "Amazon Inventory Financing"
 					}
+				}
+			]
+		},
+		{
+			"@type": "WebSite",
+			"url": "https://bitxfunding.com/",
+			"name": "BitX Funding - Small Business Loans and Business Lines of Credit",
+			"alternateName": "BitX Funding - Alternative Small Business Loans",
+			"description": "BitX Funding is your online marketplace for small business loans. From start-up loans, short-term loans to merchant cash advances and lines of credit, BitX is where lenders compete for your business.",
+			"publisher": {
+				"url": "https://bitxfunding.com/",
+				"name": "BitX Funding - Small Business Loans and Business Lines of Credit",
+				"alternateName": "BitX Funding - Alternative Small Business Loans"
+			},
+			"author": {
+				"url": "https://bitxfunding.com/",
+				"name": "BitX Funding - Small Business Loans and Business Lines of Credit",
+				"alternateName": "BitX Funding - Alternative Small Business Loans"
+			},
+			"potentialAction": [
+				{
+					"@type": "SearchAction",
+					"target": {
+						"@type": "EntryPoint",
+						"urlTemplate": "https://bitxfunding.com/?s={search_term_string}"
+					},
+					"query-input": "required name=search_term_string"
+				}
+			]
+		},
+		{
+			"@type": "WebPage",
+			"name": "Amazon Inventory Financing, Amazon Business Financing - BitX Funding",
+			"url": "https://bitxfunding.com/amazon-inventory-financing/",
+			"description": "Inventory line of credit to help build your Amazon business and inventory. Contact us to learn about our Amazon inventory financing",
+			"datePublished": "2020-08-04T21:58:51+00:00",
+			"dateModified": "2021-10-19T17:57:16+00:00",
+			"inLanguage": "en-US",
+			"potentialAction": [
+				{
+					"@type": "ReadAction",
+					"target": [
+						"https://bitxfunding.com/amazon-inventory-financing/"
+					]
 				}
 			]
 		}

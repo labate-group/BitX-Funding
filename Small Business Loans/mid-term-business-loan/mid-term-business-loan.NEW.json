@@ -3,7 +3,7 @@
 	"@graph": [
 		{
 			"@type": "LoanOrCredit",
-			"name": "Mid-Term Loan",
+			"name": "Mid-Term Loan - BitX Funding",
 			"loanType": "https://bitxfunding.com/mid-term-business-loan/",
 			"category": "Mid-Term Business Loan",
 			"sameAs": [
@@ -187,6 +187,23 @@
 						"@id": "https://bitxfunding.com/mid-term-business-loan/",
 						"name": "Mid-Term Business Loans"
 					}
+				}
+			]
+		},
+		{
+			"@type": "WebPage",
+			"name": "Mid-Term Loan - BitX Funding",
+			"url": "https://bitxfunding.com/merchant-cash-advance/",
+			"description": "BitX Funding offers you medium-term business loans with automatic monthly payments, making the payback process even easier. If you’re looking for loan options for larger projects, while allowing you to pay back over a longer term with rates as low as 4.99%, our medium-term business loans might be right for you. Term options are 12 to 60 months with traditional monthly payments and unsecured loans starting at $25,000 to $500,000.",
+			"datePublished": "2020-08-04T21:58:51+00:00",
+			"dateModified": "2021-10-19T17:57:16+00:00",
+			"inLanguage": "en-US",
+			"potentialAction": [
+				{
+					"@type": "ReadAction",
+					"target": [
+						"https://bitxfunding.com/merchant-cash-advance/"
+					]
 				}
 			]
 		}

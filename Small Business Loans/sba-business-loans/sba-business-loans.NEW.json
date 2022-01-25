@@ -3,7 +3,7 @@
 	"@graph": [
 		{
 			"@type": "LoanOrCredit",
-			"name": "SBA Loans",
+			"name": "SBA Loans - BitX Funding",
 			"loanType": "https://bitxfunding.com/sba-business-loans/",
 			"category": "SBA Loans",
 			"url": "https://bitxfunding.com/sba-business-loans/",
@@ -187,6 +187,23 @@
 						"@id": "https://bitxfunding.com/sba-business-loans/",
 						"name": "SBA Business Loans"
 					}
+				}
+			]
+		},
+		{
+			"@type": "WebPage",
+			"name": "SBA Loans - BitX Funding",
+			"url": "https://bitxfunding.com/sba-business-loans/",
+			"description": "There are various SBA Loans programs available to small business owners, but navigating through them all is cumbersome and time-consuming. BitX Funding has relationships with several lenders offering SBA Loans and will guide you through the process saving you time, money and energy. To qualify no start-ups, 2 years in business, 1.25 debt service ratio, 650 FICO +, for-profit companies and are looking for 30K to 5 Million in funding.",
+			"datePublished": "2020-08-04T21:58:51+00:00",
+			"dateModified": "2021-10-19T17:57:16+00:00",
+			"inLanguage": "en-US",
+			"potentialAction": [
+				{
+					"@type": "ReadAction",
+					"target": [
+						"https://bitxfunding.com/sba-business-loans/"
+					]
 				}
 			]
 		}

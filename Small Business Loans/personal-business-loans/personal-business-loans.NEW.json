@@ -3,7 +3,7 @@
 	"@graph": [
 		{
 			"@type": "LoanOrCredit",
-			"name": "Personal Loans for Business Purposes",
+			"name": "Personal Loans for Business Purposes - BitX Funding",
 			"loanType": "https://bitxfunding.com/personal-business-loans/",
 			"category": "Personal Loans for Business Purposes",
 			"url": "https://bitxfunding.com/personal-business-loans/",
@@ -183,6 +183,23 @@
 						"@id": "https://bitxfunding.com/personal-business-loans/",
 						"name": "Personal Loans for Small Business"
 					}
+				}
+			]
+		},
+		{
+			"@type": "WebPage",
+			"name": "Personal Loans for Business Purposes - BitX Funding",
+			"url": "https://bitxfunding.com/personal-business-loans/",
+			"description": "BitX Funding Personal Term Loans for Business Purposes connects entrepreneurs and business owners with $25,000 – $500,000 in personal term loans so to grow their business. This small business personal loan program can provide you with personal business loans in as little as 10 days, with an average interest rate of 10% and terms of 1 to 7 years.",
+			"datePublished": "2020-08-04T21:58:51+00:00",
+			"dateModified": "2021-10-19T17:57:16+00:00",
+			"inLanguage": "en-US",
+			"potentialAction": [
+				{
+					"@type": "ReadAction",
+					"target": [
+						"https://bitxfunding.com/personal-business-loans/"
+					]
 				}
 			]
 		}

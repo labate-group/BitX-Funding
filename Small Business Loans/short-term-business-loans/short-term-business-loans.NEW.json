@@ -3,7 +3,7 @@
 	"@graph": [
 		{
 			"@type": "LoanOrCredit",
-			"name": "Short-Term Small Business Loans",
+			"name": "Short-Term Small Business Loans - BitX Funding",
 			"loanType": "https://bitxfunding.com/short-term-business-loans/",
 			"category": "Short-Term Small Business Loans",
 			"url": "https://bitxfunding.com/short-term-business-loans/",
@@ -189,6 +189,23 @@
 						"@id": "https://bitxfunding.com/short-term-business-loans/",
 						"name": "Short Term Business Loans"
 					}
+				}
+			]
+		},
+		{
+			"@type": "WebPage",
+			"name": "Short-Term Small Business Loans - BitX Funding",
+			"url": "https://bitxfunding.com/short-term-business-loans/",
+			"description": "BitX Funding is your premier lender for short-term small business loans, unsecured business loans, and small business loans that have automatic payments that take place daily or weekly. When financing an upcoming project with immediate return on your investment, our short-term small business loans may be the perfect option for you. Typical projects these loans are used for include remodeling your location, inventory deals, hiring employees for extra help, or marketing campaigns. Our loans range from $5,000 to $500,000 with terms from 3 months to 24 months.",
+			"datePublished": "2020-08-04T21:58:51+00:00",
+			"dateModified": "2021-10-19T17:57:16+00:00",
+			"inLanguage": "en-US",
+			"potentialAction": [
+				{
+					"@type": "ReadAction",
+					"target": [
+						"https://bitxfunding.com/short-term-business-loans/"
+					]
 				}
 			]
 		}

@@ -3,7 +3,7 @@
 	"@graph": [
 		{
 			"@type": "LoanOrCredit",
-			"name": "Merchant Cash Advance",
+			"name": "Merchant Cash Advance - BitX Funding",
 			"loanType": "https://bitxfunding.com/merchant-cash-advance/",
 			"category": "Merchant Cash Advance",
 			"url": "https://bitxfunding.com/merchant-cash-advance/",
@@ -35,13 +35,13 @@
 			},
 			"annualPercentageRate": {
 				"@type": "QuantitativeValue",
-				"name": "Lowest annual interest rate (APR",
+				"name": "Lowest annual interest rate (APR)",
 				"description": "Lowest annual interest rate (APR)",
 				"value": "6.98"
 			},
 			"interestRate": {
 				"@type": "QuantitativeValue",
-				"name": "Lowest annual interest rate (APR",
+				"name": "Lowest annual interest rate (APR)",
 				"description": "Lowest annual interest rate (APR)",
 				"value": "6.98"
 			},
@@ -187,6 +187,23 @@
 						"@id": "https://bitxfunding.com/merchant-cash-advance/",
 						"name": "Merchant Cash Advance"
 					}
+				}
+			]
+		},
+		{
+			"@type": "WebPage",
+			"name": "Merchant Cash Advance - BitX Funding",
+			"url": "https://bitxfunding.com/merchant-cash-advance/",
+			"description": "BitX Funding is a lending partner that offers true Merchant Cash Advance with automatic fixed or percentage of sales daily or weekly payments via ACH Debit from merchant’s business bank account . If you're looking to finance a project that has an immediate return on investment such as updating or refreshing your location, inventory deals with a quick turnaround, marketing campaigns, seasonal hiring, or high demand inventory a Merchant Cash Advance loans are for you. They range from $5,000 to $500,000 with terms of 6 to 18 months and the cost of capital varies by term. Call to find out today if you are pre-approved.",
+			"datePublished": "2020-08-04T21:58:51+00:00",
+			"dateModified": "2021-10-19T17:57:16+00:00",
+			"inLanguage": "en-US",
+			"potentialAction": [
+				{
+					"@type": "ReadAction",
+					"target": [
+						"https://bitxfunding.com/merchant-cash-advance/"
+					]
 				}
 			]
 		}

@@ -585,6 +585,33 @@
 					}
 				}
 			]
+		},
+		{
+			"@type": "WebSite",
+			"url": "https://bitxfunding.com/",
+			"name": "BitX Funding - Small Business Loans and Business Lines of Credit",
+			"alternateName": "BitX Funding - Alternative Small Business Loans",
+			"description": "BitX Funding is your online marketplace for small business loans. From start-up loans, short-term loans to merchant cash advances and lines of credit, BitX is where lenders compete for your business.",
+			"publisher": {
+				"url": "https://bitxfunding.com/",
+				"name": "BitX Funding - Small Business Loans and Business Lines of Credit",
+				"alternateName": "BitX Funding - Alternative Small Business Loans"
+			},
+			"author": {
+				"url": "https://bitxfunding.com/",
+				"name": "BitX Funding - Small Business Loans and Business Lines of Credit",
+				"alternateName": "BitX Funding - Alternative Small Business Loans"
+			},
+			"potentialAction": [
+				{
+					"@type": "SearchAction",
+					"target": {
+						"@type": "EntryPoint",
+						"urlTemplate": "https://bitxfunding.com/?s={search_term_string}"
+					},
+					"query-input": "required name=search_term_string"
+				}
+			]
 		}
 	]
 }

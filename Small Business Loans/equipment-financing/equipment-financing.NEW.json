@@ -3,7 +3,7 @@
 	"@graph": [
 		{
 			"@type": "LoanOrCredit",
-			"name": "Equipment Financing",
+			"name": "Equipment Financing - BitX Funding",
 			"loanType": "https://bitxfunding.com/equipment-financing/",
 			"category": "Equipment Financing",
 			"url": "https://bitxfunding.com/equipment-financing/",
@@ -187,6 +187,23 @@
 						"@id": "https://bitxfunding.com/equipment-financing/",
 						"name": "Equipment Financing"
 					}
+				}
+			]
+		},
+		{
+			"@type": "WebPage",
+			"name": "Amazon Inventory Financing, Amazon Business Financing - BitX Funding",
+			"url": "https://bitxfunding.com/equipment-financing/",
+			"description": "Business equipment financing helps you finance up to 100% of the new or used equipment you need for your business. Applying for an equipment loan is typically a fast and easy way to finance the purchase of most types of equipment—computers, machinery, vehicles, or whatever else you need.",
+			"datePublished": "2020-08-04T21:58:51+00:00",
+			"dateModified": "2021-10-19T17:57:16+00:00",
+			"inLanguage": "en-US",
+			"potentialAction": [
+				{
+					"@type": "ReadAction",
+					"target": [
+						"https://bitxfunding.com/equipment-financing/"
+					]
 				}
 			]
 		}

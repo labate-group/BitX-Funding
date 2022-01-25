@@ -453,6 +453,23 @@
 					}
 				}
 			]
+		},
+		{
+			"@type": "WebPage",
+			"name": "Small Business Loans - BitX Funding",
+			"url": "https://bitxfunding.com/small-business-loans/",
+			"description": "BitX Funding offers alternative small business loan services, SBA Loans, mid-term business loans, short-term business loans, merchant cash advances and loans for startup business funding. At BitX Funding, we can help you get the working capital you need and fund your small business. BitX Funding’s small business loan services make it easier for you to receive funding when you are ready. Our loan specialists are available 6 days a week to help you get the funds that your small business needs to thrive, helping you turn your company from a startup into a growing business ready for the future. We provide best unsecured alternative small business loan services within the shortest possible time, meaning you can spend less time waiting for your funding to be approved, and more time spent making meaningful changes to your enterprise, propelling it into a successful future.",
+			"datePublished": "2020-08-04T21:58:51+00:00",
+			"dateModified": "2021-10-19T17:57:16+00:00",
+			"inLanguage": "en-US",
+			"potentialAction": [
+				{
+					"@type": "ReadAction",
+					"target": [
+						"https://bitxfunding.com/small-business-loans/"
+					]
+				}
+			]
 		}
     ]
 }

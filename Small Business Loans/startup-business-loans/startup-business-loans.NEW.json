@@ -3,7 +3,7 @@
 	"@graph": [
 		{
 			"@type": "LoanOrCredit",
-			"name": "Startup Business Loans",
+			"name": "Startup Business Loans - BitX Funding",
 			"loanType": "https://bitxfunding.com/startup-business-loans/",
 			"category": "https://bitxfunding.com/startup-business-loans/",
 			"url": "https://bitxfunding.com/",
@@ -183,6 +183,23 @@
 						"@id": "https://bitxfunding.com/startup-business-loans/",
 						"name": "Startup Business Loans"
 					}
+				}
+			]
+		},
+		{
+			"@type": "WebPage",
+			"name": "Startup Business Loans - BitX Funding",
+			"url": "https://bitxfunding.com/startup-business-loans/",
+			"description": "BitX Funding startup business loan program connects entrepreneurs and business owners with $25,000 – $150,000+ in startup business loans and unsecured business lines of credit. This startup business funding program can provide you with a startup business loan in as little as 10 days and is typically offered with 0% interest financing for the first 6-18 months.",
+			"datePublished": "2020-08-04T21:58:51+00:00",
+			"dateModified": "2021-10-19T17:57:16+00:00",
+			"inLanguage": "en-US",
+			"potentialAction": [
+				{
+					"@type": "ReadAction",
+					"target": [
+						"https://bitxfunding.com/startup-business-loans/"
+					]
 				}
 			]
 		}

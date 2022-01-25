@@ -3,10 +3,10 @@
 	"@graph": [
 		{
 			"@type": "LoanOrCredit",
-			"name": "Invoice Financing",
+			"name": "Invoice Financing - BitX Funding",
 			"loanType": "https://bitxfunding.com/invoice-financing/",
 			"category": "Invoice Financing",
-			"url": "https://bitxfunding.com/invoice-financing/",,
+			"url": "https://bitxfunding.com/invoice-financing/",
 			"sameAs": [
 				"https://www.facebook.com/bitxfunding",
 				"https://www.instagram.com/bitxfunding",
@@ -182,6 +182,23 @@
 						"@id": "https://bitxfunding.com/invoice-financing/",
 						"name": "Invoice Financing"
 					}
+				}
+			]
+		},
+		{
+			"@type": "WebPage",
+			"name": "Invoice Financing - BitX Funding",
+			"url": "https://bitxfunding.com/invoice-financing/",
+			"description": "Invoice financing, often called accounts receivable financing, is a type of asset-based financing solution that allows business owners to free up unpaid invoices. Invoice financing companies advance you cash collateralized by your accounts receivable, giving you an excellent way to put money back into your business. With invoice financing for small businesses, you can get a fast advance of about 85% of the value of your invoices, with most of the other 15% paid to you later.",
+			"datePublished": "2020-08-04T21:58:51+00:00",
+			"dateModified": "2021-10-19T17:57:16+00:00",
+			"inLanguage": "en-US",
+			"potentialAction": [
+				{
+					"@type": "ReadAction",
+					"target": [
+						"https://bitxfunding.com/invoice-financing/"
+					]
 				}
 			]
 		}
