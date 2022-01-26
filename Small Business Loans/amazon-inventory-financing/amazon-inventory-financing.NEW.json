@@ -165,41 +165,17 @@
 			]
 		},
 		{
-			"@type": "BreadcrumbList",
-			"itemListElement": [
-				{
-					"@type": "ListItem",
-					"position": 1,
-					"item": {
-						"@id": "https://bitxfunding.com/",
-						"name": "Home"
-					}
-				},
-				{
-					"@type": "ListItem",
-					"position": 2,
-					"item": {
-						"@id": "https://bitxfunding.com/amazon-inventory-financing/",
-						"name": "Amazon Inventory Financing"
-					}
-				}
-			]
-		},
-		{
 			"@type": "WebSite",
+			"@id": "https://bitxfunding.com/#website",
 			"url": "https://bitxfunding.com/",
 			"name": "BitX Funding - Small Business Loans and Business Lines of Credit",
 			"alternateName": "BitX Funding - Alternative Small Business Loans",
 			"description": "BitX Funding is your online marketplace for small business loans. From start-up loans, short-term loans to merchant cash advances and lines of credit, BitX is where lenders compete for your business.",
 			"publisher": {
-				"url": "https://bitxfunding.com/",
-				"name": "BitX Funding - Small Business Loans and Business Lines of Credit",
-				"alternateName": "BitX Funding - Alternative Small Business Loans"
+				"@id": "https://bitxfunding.com/#financialservice"
 			},
 			"author": {
-				"url": "https://bitxfunding.com/",
-				"name": "BitX Funding - Small Business Loans and Business Lines of Credit",
-				"alternateName": "BitX Funding - Alternative Small Business Loans"
+				"@id": "https://bitxfunding.com/#financialservice"
 			},
 			"potentialAction": [
 				{
@@ -214,12 +190,28 @@
 		},
 		{
 			"@type": "WebPage",
-			"name": "Amazon Inventory Financing, Amazon Business Financing - BitX Funding",
+			"name": "Amazon Inventory Financing - BitX Funding",
+			"@id": "https://bitxfunding.com/amazon-inventory-financing/#webpage",
 			"url": "https://bitxfunding.com/amazon-inventory-financing/",
-			"description": "Inventory line of credit to help build your Amazon business and inventory. Contact us to learn about our Amazon inventory financing",
+			"description": "With BitX Funding you can get access to a large inventory line of credit to grow your business. With Amazon you are capped at $1 million in available credit so how can you grow your inventory from there? You can’t unless you are taking out expensive MCAs that steal all your profit margin. At BitX Funding, we will provide you with proven Amazon inventory financing for Amazon Power Sellers to grow past $1 million in inventory.",
+			"logo": {
+				"@type": "ImageObject",
+				"@id": "https://bitxfunding.com/#logo",
+				"inLanguage": "en-US",
+				"url": "https://bitxfunding.com/wp-content/uploads/2016/01/lOGO-3.png",
+				"contentUrl": "https://bitxfunding.com/wp-content/uploads/2016/01/lOGO-3.png",
+				"width": 250,
+				"height": 250,
+				"caption": "BitX Funding"
+			},
+			"image": "https://bitxfunding.com/wp-content/uploads/2016/01/lOGO-3.png",
+			"photo": "https://bitxfunding.com/wp-content/uploads/2016/01/lOGO-3.png",
+			"inLanguage": "en-US",
 			"datePublished": "2020-08-04T21:58:51+00:00",
 			"dateModified": "2021-10-19T17:57:16+00:00",
-			"inLanguage": "en-US",
+			"isPartOf": {
+				"@id": "https://bitxfunding.com/#website"
+			},
 			"potentialAction": [
 				{
 					"@type": "ReadAction",
@@ -227,7 +219,107 @@
 						"https://bitxfunding.com/amazon-inventory-financing/"
 					]
 				}
+			],
+			"breadcrumb": {
+				"@id": "https://bitxfunding.com/amazon-inventory-financing/#breadcrumb"
+			}
+		},
+		{
+			"@type": "BreadcrumbList",
+			"itemListElement": [
+				{
+					"@type": "ListItem",
+					"position": 1,
+					"item": {
+						"@id": "https://bitxfunding.com/",
+						"url": "https://bitxfunding.com/",
+						"name": "Home"
+					}
+				},
+				{
+					"@type": "ListItem",
+					"position": 2,
+					"item": {
+						"@id": "https://bitxfunding.com/amazon-inventory-financing/",
+						"url": "https://bitxfunding.com/amazon-inventory-financing/",
+						"name": "Amazon Inventory Financing"
+					}
+				}
 			]
+		},
+		{
+			"@type": "Person",
+			"name": "Todd Rowe",
+			"description": "Todd Rowe is the president and founder of BitX Funding and brings over 20 years of experience in managing sales for rapidly growing organizations. Previously, he served as Director of Sales for Paychex Inc. In this role, Todd grew the client base from 200 to over 3,000 small business owners – landing him in the top 1% of the company ten years in a row. Todd has also held various Senior Management Positions including serving as Senior Business Development Manager at OnDeck Capital, Inc. a 2007 small business financing start up, Director of Sales at TriNet, Inc. a professional employer organization and Public Sector Account Executive at Sprint. Todd holds a Bachelor Degree in Business Administration from New England College and is a Fairfield Chamber of Commerce Board Member.",
+			"url": "https://bitxfunding.com/#website",
+			"sameAs": [
+				"https://www.linkedin.com/in/toddrowe1/",
+				"https://www.zoominfo.com/p/Todd-Rowe/696670244"
+			],
+			"affiliation": {
+				"@type": "FinancialService",
+				"name": "BitX Funding - Small Business Loans and Business Lines of Credit",
+				"legalName": "BitX Funding, L.L.C.",
+				"brand": "BitX Funding",
+				"url": "https://bitxfunding.com/#website",
+				"logo": "https://bitxfunding.com/wp-content/uploads/2016/01/lOGO-3.png",
+				"image": "https://bitxfunding.com/wp-content/uploads/2016/01/lOGO-3.png",
+				"telephone": "800-824-2407",
+				"priceRange": "$$$",
+				"address": {
+					"@type": "PostalAddress",
+					"streetAddress": "1700 Post Rd Suite B-10",
+					"addressLocality": "Fairfield",
+					"addressRegion": "CT",
+					"postalCode": "06824",
+					"addressCountry": "United States"
+				}
+			},
+			"alumniOf": [
+				{
+					"@type": "FinancialService",
+					"name": "Paychex",
+					"legalName": "Paychex Inc.",
+					"brand": "Paychex",
+					"url": "https://www.paychex.com/",
+					"logo": "https://www.paychex.com/themes/custom/paychex2/images/svg/logo-paychex.svg"
+				},
+				{
+					"@type": "FinancialService",
+					"name": "OnDeck Capital",
+					"legalName": "OnDeck Capital, Inc.",
+					"brand": "OnDeck Capital",
+					"url": "https://www.ondeck.com/",
+					"logo": "https://www.ondeck.com/wp-content/uploads/2016/09/press2-300x300.png"
+				},
+				{
+					"@type": "FinancialService",
+					"name": "TriNet",
+					"legalName": "TriNet, Inc.",
+					"brand": "TriNet",
+					"url": "https://www.trinet.com/",
+					"logo": "https://www.trinet.com/assets/img/content/email/trinet-email-logo.jpg"
+				},
+				{
+					"@type": "Organization",
+					"name": "Sprint - T-Mobile",
+					"url": "https://www.t-mobile.com",
+					"logo": "https://cdn.tmobile.com/content/dam/t-mobile/ntm/branding/logos/corporate/tmo-logo-v3.svg"
+				},
+				{
+					"@type": "Organization",
+					"name": "New England College",
+					"url": "https://www.nec.edu",
+					"logo": "https://44iofm20tyvs2xet4b3sk1yt-wpengine.netdna-ssl.com/wp-content/uploads/2021/01/logo.svg"
+				}
+			],
+			"memberOf": {
+				"@type": "Organization",
+				"name": "Fairfield Chamber of Commerce",
+				"description": "Fairfield Chamber of Commerce Board Member.",
+				"url": "http://fairfieldctchamber.com/",
+				"logo": "https://fairfieldctchamber.com/wp-content/themes/ffchamber-child/images/logo.png"
+			}
 		}
 	]
 }

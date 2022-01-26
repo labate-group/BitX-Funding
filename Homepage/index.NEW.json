@@ -110,13 +110,30 @@
 			"founder": {
 				"@type": "Person",
 				"name": "Todd Rowe",
+				"description": "Todd Rowe is the president and founder of BitX Funding and brings over 20 years of experience in managing sales for rapidly growing organizations. Previously, he served as Director of Sales for Paychex Inc. In this role, Todd grew the client base from 200 to over 3,000 small business owners – landing him in the top 1% of the company ten years in a row. Todd has also held various Senior Management Positions including serving as Senior Business Development Manager at OnDeck Capital, Inc. a 2007 small business financing start up, Director of Sales at TriNet, Inc. a professional employer organization and Public Sector Account Executive at Sprint. Todd holds a Bachelor Degree in Business Administration from New England College and is a Fairfield Chamber of Commerce Board Member.",
+				"url": "https://bitxfunding.com/#website",
+				"sameAs": [
+					"https://www.linkedin.com/in/toddrowe1/",
+					"https://www.zoominfo.com/p/Todd-Rowe/696670244"
+				],
 				"affiliation": {
 					"@type": "FinancialService",
 					"name": "BitX Funding - Small Business Loans and Business Lines of Credit",
 					"legalName": "BitX Funding, L.L.C.",
 					"brand": "BitX Funding",
-					"url": "https://bitxfunding.com/",
-					"logo": "https://bitxfunding.com/wp-content/themes/BitX/library/images/logo.png"
+					"url": "https://bitxfunding.com/#website",
+					"logo": "https://bitxfunding.com/wp-content/uploads/2016/01/lOGO-3.png",
+					"image": "https://bitxfunding.com/wp-content/uploads/2016/01/lOGO-3.png",
+					"telephone": "800-824-2407",
+					"priceRange": "$$$",
+					"address": {
+						"@type": "PostalAddress",
+						"streetAddress": "1700 Post Rd Suite B-10",
+						"addressLocality": "Fairfield",
+						"addressRegion": "CT",
+						"postalCode": "06824",
+						"addressCountry": "United States"
+					}
 				},
 				"alumniOf": [
 					{
@@ -198,8 +215,8 @@
 						"loanType": "https://bitxfunding.com/short-term-business-loans/",
 						"category": "Short-Term Small Business Loans",
 						"url": "https://bitxfunding.com/short-term-business-loans/",
-						"logo": "https://bitxfunding.com/wp-content/themes/BitX/library/images/logo.png",
-						"image": "https://bitxfunding.com/wp-content/themes/BitX/library/images/logo.png",
+						"logo": "https://bitxfunding.com/wp-content/uploads/2016/01/lOGO-3.png",
+						"image": "https://bitxfunding.com/wp-content/uploads/2016/01/lOGO-3.png",
 						"description": "BitX Funding is your premier lender for short-term small business loans, unsecured business loans, and small business loans that have automatic payments that take place daily or weekly. When financing an upcoming project with immediate return on your investment, our short-term small business loans may be the perfect option for you. Typical projects these loans are used for include remodeling your location, inventory deals, hiring employees for extra help, or marketing campaigns. Our loans range from $5,000 to $500,000 with terms from 3 months to 24 months.",
 						"loanTerm": {
 							"@type": "QuantitativeValue",
@@ -238,8 +255,8 @@
 						"loanType": "https://bitxfunding.com/mid-term-business-loan/",
 						"category": "Mid-Term Business Loan",
 						"url": "https://bitxfunding.com/mid-term-business-loan/",
-						"logo": "https://bitxfunding.com/wp-content/themes/BitX/library/images/logo.png",
-						"image": "https://bitxfunding.com/wp-content/themes/BitX/library/images/logo.png",
+						"logo": "https://bitxfunding.com/wp-content/uploads/2016/01/lOGO-3.png",
+						"image": "https://bitxfunding.com/wp-content/uploads/2016/01/lOGO-3.png",
 						"description": "BitX Funding offers you medium-term business loans with automatic monthly payments, making the payback process even easier. If you’re looking for loan options for larger projects, while allowing you to pay back over a longer term with rates as low as 4.99%, our medium-term business loans might be right for you. Term options are 12 to 60 months with traditional monthly payments and unsecured loans starting at $25,000 to $500,000.",
 						"loanTerm": {
 							"@type": "QuantitativeValue",
@@ -277,8 +294,8 @@
 						"loanType": "https://bitxfunding.com/business-line-of-credit/",
 						"category": "https://bitxfunding.com/business-line-of-credit/",
 						"url": "https://bitxfunding.com/business-line-of-credit/",
-						"logo": "https://bitxfunding.com/wp-content/themes/BitX/library/images/logo.png",
-						"image": "https://bitxfunding.com/wp-content/themes/BitX/library/images/logo.png",
+						"logo": "https://bitxfunding.com/wp-content/uploads/2016/01/lOGO-3.png",
+						"image": "https://bitxfunding.com/wp-content/uploads/2016/01/lOGO-3.png",
 						"description": "Business lines of credit allow you to draw funds whenever you need and only pay interest on funds that are put to work. Funds will be deposited directly into your bank account. Repay via automated weekly debts over 12 months. Your available balance replenishes as payments clear. Lines of credit can go as high as $100,000 with interest rates averaging around 10%.",
 						"annualPercentageRate": {
 							"@type": "QuantitativeValue",
@@ -310,8 +327,8 @@
 						"loanType": "https://bitxfunding.com/merchant-cash-advance/",
 						"category": "Merchant Cash Advance",
 						"url": "https://bitxfunding.com/merchant-cash-advance/",
-						"logo": "https://bitxfunding.com/wp-content/themes/BitX/library/images/logo.png",
-						"image": "https://bitxfunding.com/wp-content/themes/BitX/library/images/logo.png",
+						"logo": "https://bitxfunding.com/wp-content/uploads/2016/01/lOGO-3.png",
+						"image": "https://bitxfunding.com/wp-content/uploads/2016/01/lOGO-3.png",
 						"description": "BitX Funding is a lending partner that offers true Merchant Cash Advance with automatic fixed or percentage of sales daily or weekly payments via ACH Debit from merchant’s business bank account . If you're looking to finance a project that has an immediate return on investment such as updating or refreshing your location, inventory deals with a quick turnaround, marketing campaigns, seasonal hiring, or high demand inventory a Merchant Cash Advance loans are for you. They range from $5,000 to $500,000 with terms of 6 to 18 months and the cost of capital varies by term. Call to find out today if you are pre-approved.",
 						"loanTerm": {
 							"@type": "QuantitativeValue",
@@ -348,8 +365,8 @@
 						"loanType": "https://bitxfunding.com/personal-business-loans/",
 						"category": "Personal Loans for Business Purposes",
 						"url": "https://bitxfunding.com/personal-business-loans/",
-						"logo": "https://bitxfunding.com/wp-content/themes/BitX/library/images/logo.png",
-						"image": "https://bitxfunding.com/wp-content/themes/BitX/library/images/logo.png",
+						"logo": "https://bitxfunding.com/wp-content/uploads/2016/01/lOGO-3.png",
+						"image": "https://bitxfunding.com/wp-content/uploads/2016/01/lOGO-3.png",
 						"description": "BitX Funding Personal Term Loans for Business Purposes connects entrepreneurs and business owners with $25,000 – $500,000 in personal term loans so to grow their business. This small business personal loan program can provide you with personal business loans in as little as 10 days, with an average interest rate of 10% and terms of 1 to 7 years.",
 						"annualPercentageRate": {
 							"@type": "QuantitativeValue",
@@ -382,8 +399,8 @@
 						"loanType": "https://bitxfunding.com/startup-business-loans/",
 						"category": "https://bitxfunding.com/startup-business-loans/",
 						"url": "https://bitxfunding.com/startup-business-loans/",
-						"logo": "https://bitxfunding.com/wp-content/themes/BitX/library/images/logo.png",
-						"image": "https://bitxfunding.com/wp-content/themes/BitX/library/images/logo.png",
+						"logo": "https://bitxfunding.com/wp-content/uploads/2016/01/lOGO-3.png",
+						"image": "https://bitxfunding.com/wp-content/uploads/2016/01/lOGO-3.png",
 						"description": "BitX Funding startup business loan program connects entrepreneurs and business owners with $25,000 – $150,000+ in startup business loans and unsecured business lines of credit. This startup business funding program can provide you with a startup business loan in as little as 10 days and is typically offered with 0% interest financing for the first 6-18 months.",
 						"annualPercentageRate": {
 							"@type": "QuantitativeValue",
@@ -416,8 +433,8 @@
 						"loanType": "https://bitxfunding.com/invoice-financing/",
 						"category": "Invoice Financing",
 						"url": "https://bitxfunding.com/invoice-financing/",
-						"logo": "https://bitxfunding.com/wp-content/themes/BitX/library/images/logo.png",
-						"image": "https://bitxfunding.com/wp-content/themes/BitX/library/images/logo.png",
+						"logo": "https://bitxfunding.com/wp-content/uploads/2016/01/lOGO-3.png",
+						"image": "https://bitxfunding.com/wp-content/uploads/2016/01/lOGO-3.png",
 						"description": "Invoice financing, often called accounts receivable financing, is a type of asset-based financing solution that allows business owners to free up unpaid invoices. Invoice financing companies advance you cash collateralized by your accounts receivable, giving you an excellent way to put money back into your business. With invoice financing for small businesses, you can get a fast advance of about 85% of the value of your invoices, with most of the other 15% paid to you later.",
 						"annualPercentageRate": {
 							"@type": "QuantitativeValue",
@@ -449,8 +466,8 @@
 						"loanType": "https://bitxfunding.com/equipment-financing/",
 						"category": "Equipment Financing",
 						"url": "https://bitxfunding.com/equipment-financing/",
-						"logo": "https://bitxfunding.com/wp-content/themes/BitX/library/images/logo.png",
-						"image": "https://bitxfunding.com/wp-content/themes/BitX/library/images/logo.png",
+						"logo": "https://bitxfunding.com/wp-content/uploads/2016/01/lOGO-3.png",
+						"image": "https://bitxfunding.com/wp-content/uploads/2016/01/lOGO-3.png",
 						"description": "Business equipment financing helps you finance up to 100% of the new or used equipment you need for your business. Applying for an equipment loan is typically a fast and easy way to finance the purchase of most types of equipment—computers, machinery, vehicles, or whatever else you need.",
 						"loanTerm": {
 							"@type": "QuantitativeValue",
@@ -487,8 +504,8 @@
 						"loanType": "https://bitxfunding.com/sba-business-loans/",
 						"category": "SBA Loans",
 						"url": "https://bitxfunding.com/sba-business-loans/",
-						"logo": "https://bitxfunding.com/wp-content/themes/BitX/library/images/logo.png",
-						"image": "https://bitxfunding.com/wp-content/themes/BitX/library/images/logo.png",
+						"logo": "https://bitxfunding.com/wp-content/uploads/2016/01/lOGO-3.png",
+						"image": "https://bitxfunding.com/wp-content/uploads/2016/01/lOGO-3.png",
 						"description": "There are various SBA Loans programs available to small business owners, but navigating through them all is cumbersome and time-consuming. BitX Funding has relationships with several lenders offering SBA Loans and will guide you through the process saving you time, money and energy. To qualify no start-ups, 2 years in business, 1.25 debt service ratio, 650 FICO +, for-profit companies and are looking for 30K to 5 Million in funding.",
 						"loanTerm": {
 							"@type": "QuantitativeValue",
@@ -525,8 +542,8 @@
 						"loanType": "https://bitxfunding.com/amazon-inventory-financing/",
 						"category": "Amazon Inventory Financing",
 						"url": "https://bitxfunding.com/amazon-inventory-financing/",
-						"logo": "https://bitxfunding.com/wp-content/themes/BitX/library/images/logo.png",
-						"image": "https://bitxfunding.com/wp-content/themes/BitX/library/images/logo.png",
+						"logo": "https://bitxfunding.com/wp-content/uploads/2016/01/lOGO-3.png",
+						"image": "https://bitxfunding.com/wp-content/uploads/2016/01/lOGO-3.png",
 						"description": "With BitX Funding you can get access to a large inventory line of credit to grow your business. With Amazon you are capped at $1 million in available credit so how can you grow your inventory from there? You can’t unless you are taking out expensive MCAs that steal all your profit margin. At BitX Funding, we will provide you with proven Amazon inventory financing for Amazon Power Sellers to grow past $1 million in inventory.",
 						"annualPercentageRate": {
 							"@type": "QuantitativeValue",
@@ -574,33 +591,17 @@
 			"smokingAllowed": "False"
 		},
 		{
-			"@type": "BreadcrumbList",
-			"itemListElement": [
-				{
-					"@type": "ListItem",
-					"position": 1,
-					"item": {
-						"@id": "https://bitxfunding.com/",
-						"name": "Home"
-					}
-				}
-			]
-		},
-		{
 			"@type": "WebSite",
+			"@id": "https://bitxfunding.com/#website",
 			"url": "https://bitxfunding.com/",
 			"name": "BitX Funding - Small Business Loans and Business Lines of Credit",
 			"alternateName": "BitX Funding - Alternative Small Business Loans",
 			"description": "BitX Funding is your online marketplace for small business loans. From start-up loans, short-term loans to merchant cash advances and lines of credit, BitX is where lenders compete for your business.",
 			"publisher": {
-				"url": "https://bitxfunding.com/",
-				"name": "BitX Funding - Small Business Loans and Business Lines of Credit",
-				"alternateName": "BitX Funding - Alternative Small Business Loans"
+				"@id": "https://bitxfunding.com/#financialservice"
 			},
 			"author": {
-				"url": "https://bitxfunding.com/",
-				"name": "BitX Funding - Small Business Loans and Business Lines of Credit",
-				"alternateName": "BitX Funding - Alternative Small Business Loans"
+				"@id": "https://bitxfunding.com/#financialservice"
 			},
 			"potentialAction": [
 				{
@@ -612,6 +613,129 @@
 					"query-input": "required name=search_term_string"
 				}
 			]
+		},
+		{
+			"@type": "WebPage",
+			"name": "Home - BitX Funding - Small Business Loans and Business Lines of Credit",
+			"@id": "https://bitxfunding.com/#webpage",
+			"url": "https://bitxfunding.com/",
+			"description": "BitX Funding is your online marketplace for small business loans. From start-up loans, short-term loans to merchant cash advances and lines of credit, BitX is where lenders compete for your business.",
+			"logo": {
+				"@type": "ImageObject",
+				"@id": "https://bitxfunding.com/#logo",
+				"inLanguage": "en-US",
+				"url": "https://bitxfunding.com/wp-content/uploads/2016/01/lOGO-3.png",
+				"contentUrl": "https://bitxfunding.com/wp-content/uploads/2016/01/lOGO-3.png",
+				"width": 250,
+				"height": 250,
+				"caption": "BitX Funding"
+			},
+			"image": "https://bitxfunding.com/wp-content/uploads/2016/01/lOGO-3.png",
+			"inLanguage": "en-US",
+			"datePublished": "2020-08-04T21:58:51+00:00",
+			"dateModified": "2021-10-19T17:57:16+00:00",
+			"isPartOf": {
+				"@id": "https://bitxfunding.com/#website"
+			},
+			"potentialAction": [
+				{
+					"@type": "ReadAction",
+					"target": [
+						"https://bitxfunding.com/"
+					]
+				}
+			],
+			"breadcrumb": {
+				"@id": "https://bitxfunding.com/#breadcrumb"
+			}
+		},
+		{
+			"@type": "BreadcrumbList",
+			"itemListElement": [
+				{
+					"@type": "ListItem",
+					"position": 1,
+					"item": {
+						"@id": "https://bitxfunding.com",
+						"url": "https://bitxfunding.com",
+						"name": "Home"
+					}
+				}
+			]
+		},
+		{
+			"@type": "Person",
+			"name": "Todd Rowe",
+			"description": "Todd Rowe is the president and founder of BitX Funding and brings over 20 years of experience in managing sales for rapidly growing organizations. Previously, he served as Director of Sales for Paychex Inc. In this role, Todd grew the client base from 200 to over 3,000 small business owners – landing him in the top 1% of the company ten years in a row. Todd has also held various Senior Management Positions including serving as Senior Business Development Manager at OnDeck Capital, Inc. a 2007 small business financing start up, Director of Sales at TriNet, Inc. a professional employer organization and Public Sector Account Executive at Sprint. Todd holds a Bachelor Degree in Business Administration from New England College and is a Fairfield Chamber of Commerce Board Member.",
+			"url": "https://bitxfunding.com/#website",
+			"sameAs": [
+				"https://www.linkedin.com/in/toddrowe1/",
+				"https://www.zoominfo.com/p/Todd-Rowe/696670244"
+			],
+			"affiliation": {
+				"@type": "FinancialService",
+				"name": "BitX Funding - Small Business Loans and Business Lines of Credit",
+				"legalName": "BitX Funding, L.L.C.",
+				"brand": "BitX Funding",
+				"url": "https://bitxfunding.com/#website",
+				"logo": "https://bitxfunding.com/wp-content/uploads/2016/01/lOGO-3.png",
+				"image": "https://bitxfunding.com/wp-content/uploads/2016/01/lOGO-3.png",
+				"telephone": "800-824-2407",
+				"priceRange": "$$$",
+				"address": {
+					"@type": "PostalAddress",
+					"streetAddress": "1700 Post Rd Suite B-10",
+					"addressLocality": "Fairfield",
+					"addressRegion": "CT",
+					"postalCode": "06824",
+					"addressCountry": "United States"
+				}
+			},
+			"alumniOf": [
+				{
+					"@type": "FinancialService",
+					"name": "Paychex",
+					"legalName": "Paychex Inc.",
+					"brand": "Paychex",
+					"url": "https://www.paychex.com/",
+					"logo": "https://www.paychex.com/themes/custom/paychex2/images/svg/logo-paychex.svg"
+				},
+				{
+					"@type": "FinancialService",
+					"name": "OnDeck Capital",
+					"legalName": "OnDeck Capital, Inc.",
+					"brand": "OnDeck Capital",
+					"url": "https://www.ondeck.com/",
+					"logo": "https://www.ondeck.com/wp-content/uploads/2016/09/press2-300x300.png"
+				},
+				{
+					"@type": "FinancialService",
+					"name": "TriNet",
+					"legalName": "TriNet, Inc.",
+					"brand": "TriNet",
+					"url": "https://www.trinet.com/",
+					"logo": "https://www.trinet.com/assets/img/content/email/trinet-email-logo.jpg"
+				},
+				{
+					"@type": "Organization",
+					"name": "Sprint - T-Mobile",
+					"url": "https://www.t-mobile.com",
+					"logo": "https://cdn.tmobile.com/content/dam/t-mobile/ntm/branding/logos/corporate/tmo-logo-v3.svg"
+				},
+				{
+					"@type": "Organization",
+					"name": "New England College",
+					"url": "https://www.nec.edu",
+					"logo": "https://44iofm20tyvs2xet4b3sk1yt-wpengine.netdna-ssl.com/wp-content/uploads/2021/01/logo.svg"
+				}
+			],
+			"memberOf": {
+				"@type": "Organization",
+				"name": "Fairfield Chamber of Commerce",
+				"description": "Fairfield Chamber of Commerce Board Member.",
+				"url": "http://fairfieldctchamber.com/",
+				"logo": "https://fairfieldctchamber.com/wp-content/themes/ffchamber-child/images/logo.png"
+			}
 		}
 	]
 }

@@ -172,6 +172,66 @@
 			]
 		},
 		{
+			"@type": "WebSite",
+			"@id": "https://bitxfunding.com/#website",
+			"url": "https://bitxfunding.com/",
+			"name": "BitX Funding - Small Business Loans and Business Lines of Credit",
+			"alternateName": "BitX Funding - Alternative Small Business Loans",
+			"description": "BitX Funding is your online marketplace for small business loans. From start-up loans, short-term loans to merchant cash advances and lines of credit, BitX is where lenders compete for your business.",
+			"publisher": {
+				"@id": "https://bitxfunding.com/#financialservice"
+			},
+			"author": {
+				"@id": "https://bitxfunding.com/#financialservice"
+			},
+			"potentialAction": [
+				{
+					"@type": "SearchAction",
+					"target": {
+						"@type": "EntryPoint",
+						"urlTemplate": "https://bitxfunding.com/?s={search_term_string}"
+					},
+					"query-input": "required name=search_term_string"
+				}
+			]
+		},
+		{
+			"@type": "WebPage",
+			"name": "Short-Term Small Business Loans - BitX Funding",
+			"@id": "https://bitxfunding.com/short-term-business-loans/#webpage",
+			"url": "https://bitxfunding.com/short-term-business-loans/",
+			"description": "BitX Funding is your premier lender for short-term small business loans, unsecured business loans, and small business loans that have automatic payments that take place daily or weekly. When financing an upcoming project with immediate return on your investment, our short-term small business loans may be the perfect option for you. Typical projects these loans are used for include remodeling your location, inventory deals, hiring employees for extra help, or marketing campaigns. Our loans range from $5,000 to $500,000 with terms from 3 months to 24 months.",
+			"logo": {
+				"@type": "ImageObject",
+				"@id": "https://bitxfunding.com/#logo",
+				"inLanguage": "en-US",
+				"url": "https://bitxfunding.com/wp-content/uploads/2016/01/lOGO-3.png",
+				"contentUrl": "https://bitxfunding.com/wp-content/uploads/2016/01/lOGO-3.png",
+				"width": 250,
+				"height": 250,
+				"caption": "BitX Funding"
+			},
+			"image": "https://bitxfunding.com/wp-content/uploads/2016/01/lOGO-3.png",
+			"photo": "https://bitxfunding.com/wp-content/uploads/2016/01/lOGO-3.png",
+			"inLanguage": "en-US",
+			"datePublished": "2020-08-04T21:58:51+00:00",
+			"dateModified": "2021-10-19T17:57:16+00:00",
+			"isPartOf": {
+				"@id": "https://bitxfunding.com/#website"
+			},
+			"potentialAction": [
+				{
+					"@type": "ReadAction",
+					"target": [
+						"https://bitxfunding.com/short-term-business-loans/"
+					]
+				}
+			],
+			"breadcrumb": {
+				"@id": "https://bitxfunding.com/short-term-business-loans/#breadcrumb"
+			}
+		},
+		{
 			"@type": "BreadcrumbList",
 			"itemListElement": [
 				{
@@ -193,21 +253,78 @@
 			]
 		},
 		{
-			"@type": "WebPage",
-			"name": "Short-Term Small Business Loans - BitX Funding",
-			"url": "https://bitxfunding.com/short-term-business-loans/",
-			"description": "BitX Funding is your premier lender for short-term small business loans, unsecured business loans, and small business loans that have automatic payments that take place daily or weekly. When financing an upcoming project with immediate return on your investment, our short-term small business loans may be the perfect option for you. Typical projects these loans are used for include remodeling your location, inventory deals, hiring employees for extra help, or marketing campaigns. Our loans range from $5,000 to $500,000 with terms from 3 months to 24 months.",
-			"datePublished": "2020-08-04T21:58:51+00:00",
-			"dateModified": "2021-10-19T17:57:16+00:00",
-			"inLanguage": "en-US",
-			"potentialAction": [
-				{
-					"@type": "ReadAction",
-					"target": [
-						"https://bitxfunding.com/short-term-business-loans/"
-					]
+			"@type": "Person",
+			"name": "Todd Rowe",
+			"description": "Todd Rowe is the president and founder of BitX Funding and brings over 20 years of experience in managing sales for rapidly growing organizations. Previously, he served as Director of Sales for Paychex Inc. In this role, Todd grew the client base from 200 to over 3,000 small business owners – landing him in the top 1% of the company ten years in a row. Todd has also held various Senior Management Positions including serving as Senior Business Development Manager at OnDeck Capital, Inc. a 2007 small business financing start up, Director of Sales at TriNet, Inc. a professional employer organization and Public Sector Account Executive at Sprint. Todd holds a Bachelor Degree in Business Administration from New England College and is a Fairfield Chamber of Commerce Board Member.",
+			"url": "https://bitxfunding.com/#website",
+			"sameAs": [
+				"https://www.linkedin.com/in/toddrowe1/",
+				"https://www.zoominfo.com/p/Todd-Rowe/696670244"
+			],
+			"affiliation": {
+				"@type": "FinancialService",
+				"name": "BitX Funding - Small Business Loans and Business Lines of Credit",
+				"legalName": "BitX Funding, L.L.C.",
+				"brand": "BitX Funding",
+				"url": "https://bitxfunding.com/#website",
+				"logo": "https://bitxfunding.com/wp-content/uploads/2016/01/lOGO-3.png",
+				"image": "https://bitxfunding.com/wp-content/uploads/2016/01/lOGO-3.png",
+				"telephone": "800-824-2407",
+				"priceRange": "$$$",
+				"address": {
+					"@type": "PostalAddress",
+					"streetAddress": "1700 Post Rd Suite B-10",
+					"addressLocality": "Fairfield",
+					"addressRegion": "CT",
+					"postalCode": "06824",
+					"addressCountry": "United States"
 				}
-			]
+			},
+			"alumniOf": [
+				{
+					"@type": "FinancialService",
+					"name": "Paychex",
+					"legalName": "Paychex Inc.",
+					"brand": "Paychex",
+					"url": "https://www.paychex.com/",
+					"logo": "https://www.paychex.com/themes/custom/paychex2/images/svg/logo-paychex.svg"
+				},
+				{
+					"@type": "FinancialService",
+					"name": "OnDeck Capital",
+					"legalName": "OnDeck Capital, Inc.",
+					"brand": "OnDeck Capital",
+					"url": "https://www.ondeck.com/",
+					"logo": "https://www.ondeck.com/wp-content/uploads/2016/09/press2-300x300.png"
+				},
+				{
+					"@type": "FinancialService",
+					"name": "TriNet",
+					"legalName": "TriNet, Inc.",
+					"brand": "TriNet",
+					"url": "https://www.trinet.com/",
+					"logo": "https://www.trinet.com/assets/img/content/email/trinet-email-logo.jpg"
+				},
+				{
+					"@type": "Organization",
+					"name": "Sprint - T-Mobile",
+					"url": "https://www.t-mobile.com",
+					"logo": "https://cdn.tmobile.com/content/dam/t-mobile/ntm/branding/logos/corporate/tmo-logo-v3.svg"
+				},
+				{
+					"@type": "Organization",
+					"name": "New England College",
+					"url": "https://www.nec.edu",
+					"logo": "https://44iofm20tyvs2xet4b3sk1yt-wpengine.netdna-ssl.com/wp-content/uploads/2021/01/logo.svg"
+				}
+			],
+			"memberOf": {
+				"@type": "Organization",
+				"name": "Fairfield Chamber of Commerce",
+				"description": "Fairfield Chamber of Commerce Board Member.",
+				"url": "http://fairfieldctchamber.com/",
+				"logo": "https://fairfieldctchamber.com/wp-content/themes/ffchamber-child/images/logo.png"
+			}
 		}
 	]
 }
