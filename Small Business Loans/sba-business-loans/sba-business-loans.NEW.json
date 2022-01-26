@@ -1,4 +1,4 @@
-https://search.google.com/test/rich-results/result?id=K68va6WOezSlMjPbj2nhgw
+https://search.google.com/test/rich-results/result?id=FP1qcpln9T3_iyPc_BuTwA
 
 {
 	"@context": "https://schema.org",
@@ -214,10 +214,14 @@ https://search.google.com/test/rich-results/result?id=K68va6WOezSlMjPbj2nhgw
 						"https://bitxfunding.com/sba-business-loans/"
 					]
 				}
-			]
+			],
+			"breadcrumb": {
+				"@id": "https://bitxfunding.com/sba-business-loans/#breadcrumb"
+			}
 		},
 		{
 			"@type": "BreadcrumbList",
+			"@id": "https://bitxfunding.com/sba-business-loans/#breadcrumb",
 			"itemListElement": [
 				{
 					"@type": "ListItem",

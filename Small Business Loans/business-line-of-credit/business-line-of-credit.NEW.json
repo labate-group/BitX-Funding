@@ -1,4 +1,4 @@
-https://search.google.com/test/rich-results/result?id=Yx-bILmhsfaGLqg7qsXAAQ
+https://search.google.com/test/rich-results/result?id=UIQfwrkBXm_O_9qyZvXYqQ
 
 {
 	"@context": "https://schema.org",
@@ -209,10 +209,14 @@ https://search.google.com/test/rich-results/result?id=Yx-bILmhsfaGLqg7qsXAAQ
 						"https://bitxfunding.com/business-line-of-credit/"
 					]
 				}
-			]
+			],
+			"breadcrumb": {
+				"@id": "https://bitxfunding.com/business-line-of-credit/#breadcrumb"
+			}
 		},
 		{
 			"@type": "BreadcrumbList",
+			"@id": "https://bitxfunding.com/business-line-of-credit/#breadcrumb",
 			"itemListElement": [
 				{
 					"@type": "ListItem",

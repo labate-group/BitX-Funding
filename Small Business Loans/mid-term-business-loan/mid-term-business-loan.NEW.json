@@ -1,4 +1,4 @@
-https://search.google.com/test/rich-results/result?id=69jr0keB3zxofVVQogChog
+https://search.google.com/test/rich-results/result?id=1rCTVxDOHtOuBXzgq3fneA
 
 {
 	"@context": "https://schema.org",
@@ -214,10 +214,14 @@ https://search.google.com/test/rich-results/result?id=69jr0keB3zxofVVQogChog
 						"https://bitxfunding.com/mid-term-business-loan/"
 					]
 				}
-			]
+			],
+			"breadcrumb": {
+				"@id": "https://bitxfunding.com/mid-term-business-loan/#breadcrumb"
+			}
 		},
 		{
 			"@type": "BreadcrumbList",
+			"@id": "https://bitxfunding.com/mid-term-business-loan/#breadcrumb",
 			"itemListElement": [
 				{
 					"@type": "ListItem",

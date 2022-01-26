@@ -1,4 +1,4 @@
-https://search.google.com/test/rich-results/result?id=KnigXiGV0t9-zFKCzo_j4Q
+https://search.google.com/test/rich-results/result?id=Goww6FB5xxsOoVJkL_hQkg
 
 {
 	"@context": "https://schema.org",
@@ -210,10 +210,14 @@ https://search.google.com/test/rich-results/result?id=KnigXiGV0t9-zFKCzo_j4Q
 						"https://bitxfunding.com/amazon-inventory-financing/"
 					]
 				}
-			]
+			],
+			"breadcrumb": {
+				"@id": "https://bitxfunding.com/amazon-inventory-financing/#breadcrumb"
+			}
 		},
 		{
 			"@type": "BreadcrumbList",
+			"@id": "https://bitxfunding.com/amazon-inventory-financing/#breadcrumb",
 			"itemListElement": [
 				{
 					"@type": "ListItem",

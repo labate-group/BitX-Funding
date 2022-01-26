@@ -1,4 +1,4 @@
-https://search.google.com/test/rich-results/result?id=m50ksbpxPLwMHc9gSFKCiw
+https://search.google.com/test/rich-results/result?id=cQjiIkq7MA4dUc8meI6sew
 
 {
 	"@context": "https://schema.org",
@@ -210,10 +210,14 @@ https://search.google.com/test/rich-results/result?id=m50ksbpxPLwMHc9gSFKCiw
 						"https://bitxfunding.com/personal-business-loans/"
 					]
 				}
-			]
+			],
+			"breadcrumb": {
+				"@id": "https://bitxfunding.com/personal-business-loans/#breadcrumb"
+			}
 		},
 		{
 			"@type": "BreadcrumbList",
+			"@id": "https://bitxfunding.com/personal-business-loans/#breadcrumb",
 			"itemListElement": [
 				{
 					"@type": "ListItem",

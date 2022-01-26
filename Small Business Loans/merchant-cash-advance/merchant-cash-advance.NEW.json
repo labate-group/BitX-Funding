@@ -1,4 +1,4 @@
-https://search.google.com/test/rich-results/result?id=2yf9LNbLEp5ClZt9EHqNLA
+https://search.google.com/test/rich-results/result?id=MB-h7I9eUXgJJ1fTMdJk2w
 
 {
 	"@context": "https://schema.org",
@@ -214,10 +214,14 @@ https://search.google.com/test/rich-results/result?id=2yf9LNbLEp5ClZt9EHqNLA
 						"https://bitxfunding.com/merchant-cash-advance/"
 					]
 				}
-			]
+			],
+			"breadcrumb": {
+				"@id": "https://bitxfunding.com/merchant-cash-advance/#breadcrumb"
+			}
 		},
 		{
 			"@type": "BreadcrumbList",
+			"@id": "https://bitxfunding.com/merchant-cash-advance/#breadcrumb",
 			"itemListElement": [
 				{
 					"@type": "ListItem",

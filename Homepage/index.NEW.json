@@ -1,4 +1,4 @@
-https://search.google.com/test/rich-results/result?id=XKrbocQ4F0S4kCm09JZ44g
+https://search.google.com/test/rich-results/result?id=pFMKSZMFdYbBCBmIwcY1lw
 
 {
 	"@context": "https://schema.org",
@@ -636,10 +636,14 @@ https://search.google.com/test/rich-results/result?id=XKrbocQ4F0S4kCm09JZ44g
 						"https://bitxfunding.com/"
 					]
 				}
-			]
+			],
+			"breadcrumb": {
+				"@id": "https://bitxfunding.com/#breadcrumb"
+			}
 		},
 		{
 			"@type": "BreadcrumbList",
+			"@id": "https://bitxfunding.com/#breadcrumb",
 			"itemListElement": [
 				{
 					"@type": "ListItem",
@@ -727,4 +731,4 @@ https://search.google.com/test/rich-results/result?id=XKrbocQ4F0S4kCm09JZ44g
 			}
 		}
 	]
-} 
+}

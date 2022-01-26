@@ -1,4 +1,4 @@
-https://search.google.com/test/rich-results/result?id=tWSvjEsBVrrthmq-e9GJPg
+https://search.google.com/test/rich-results/result?id=F5aGQwSbIkLjAbZSZTbxkQ
 
 {
 	"@context": "https://schema.org",
@@ -216,10 +216,14 @@ https://search.google.com/test/rich-results/result?id=tWSvjEsBVrrthmq-e9GJPg
 						"https://bitxfunding.com/short-term-business-loans/"
 					]
 				}
-			]
+			],
+			"breadcrumb": {
+				"@id": "https://bitxfunding.com/short-term-business-loans/#breadcrumb"
+			}
 		},
 		{
 			"@type": "BreadcrumbList",
+			"@id": "https://bitxfunding.com/short-term-business-loans/#breadcrumb",
 			"itemListElement": [
 				{
 					"@type": "ListItem",

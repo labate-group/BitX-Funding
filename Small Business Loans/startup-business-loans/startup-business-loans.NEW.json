@@ -1,4 +1,4 @@
-https://search.google.com/test/rich-results/result?id=FnFxwk-ce6ZpJwK6Fn3V8w
+https://search.google.com/test/rich-results/result?id=WFgPKdtDQ9fUZYaVUrbh0Q
 
 {
 	"@context": "https://schema.org",
@@ -210,10 +210,14 @@ https://search.google.com/test/rich-results/result?id=FnFxwk-ce6ZpJwK6Fn3V8w
 						"https://bitxfunding.com/startup-business-loans/"
 					]
 				}
-			]
+			],
+			"breadcrumb": {
+				"@id": "bitxfunding.com/startup-business-loans/#breadcrumb"
+			}
 		},
 		{
 			"@type": "BreadcrumbList",
+			"@id": "bitxfunding.com/startup-business-loans/#breadcrumb",
 			"itemListElement": [
 				{
 					"@type": "ListItem",

@@ -1,4 +1,4 @@
-https://search.google.com/test/rich-results/result?id=xEaSofp4YxUrVsruE8qpGA
+https://search.google.com/test/rich-results/result?id=XYZtFIKs42yaVzqCHuliOg
 
 {
 	"@context": "https://schema.org",
@@ -209,10 +209,14 @@ https://search.google.com/test/rich-results/result?id=xEaSofp4YxUrVsruE8qpGA
 						"https://bitxfunding.com/invoice-financing/"
 					]
 				}
-			]
+			],
+			"breadcrumb": {
+				"@id": "https://bitxfunding.com/invoice-financing/#breadcrumb"
+			}
 		},
 		{
 			"@type": "BreadcrumbList",
+			"@id": "https://bitxfunding.com/invoice-financing/#breadcrumb",
 			"itemListElement": [
 				{
 					"@type": "ListItem",

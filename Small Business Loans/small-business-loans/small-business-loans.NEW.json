@@ -1,5 +1,3 @@
-https://search.google.com/test/rich-results/result?id=eCTaFpWhENGi80Yf5293aw
-
 {
 	"@context": "https://schema.org",
 	"@graph": [
@@ -478,10 +476,14 @@ https://search.google.com/test/rich-results/result?id=eCTaFpWhENGi80Yf5293aw
 						"https://bitxfunding.com/small-business-loans/"
 					]
 				}
-			]
+			],
+			"breadcrumb": {
+				"@id": "https://bitxfunding.com/small-business-loans/#breadcrumb"
+			}
 		},
 		{
 			"@type": "BreadcrumbList",
+			"@id": "https://bitxfunding.com/small-business-loans/#breadcrumb",
 			"itemListElement": [
 				{
 					"@type": "ListItem",
