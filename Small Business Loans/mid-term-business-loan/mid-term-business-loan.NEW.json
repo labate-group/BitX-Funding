@@ -1,3 +1,5 @@
+https://search.google.com/test/rich-results/result?id=69jr0keB3zxofVVQogChog
+
 {
 	"@context": "https://schema.org",
 	"@graph": [
@@ -24,7 +26,6 @@
 				"caption": "BitX Funding"
 			},
 			"image": "https://bitxfunding.com/wp-content/uploads/2016/01/lOGO-3.png",
-			"photo": "https://bitxfunding.com/wp-content/uploads/2016/01/lOGO-3.png",
 			"description": "BitX Funding offers you medium-term business loans with automatic monthly payments, making the payback process even easier. If you’re looking for loan options for larger projects, while allowing you to pay back over a longer term with rates as low as 4.99%, our medium-term business loans might be right for you. Term options are 12 to 60 months with traditional monthly payments and unsecured loans starting at $25,000 to $500,000.",
 			"loanTerm": {
 				"@type": "QuantitativeValue",
@@ -199,18 +200,7 @@
 			"@id": "https://bitxfunding.com/mid-term-business-loan/#webpage",
 			"url": "https://bitxfunding.com/mid-term-business-loan/",
 			"description": "BitX Funding offers you medium-term business loans with automatic monthly payments, making the payback process even easier. If you’re looking for loan options for larger projects, while allowing you to pay back over a longer term with rates as low as 4.99%, our medium-term business loans might be right for you. Term options are 12 to 60 months with traditional monthly payments and unsecured loans starting at $25,000 to $500,000.",
-			"logo": {
-				"@type": "ImageObject",
-				"@id": "https://bitxfunding.com/#logo",
-				"inLanguage": "en-US",
-				"url": "https://bitxfunding.com/wp-content/uploads/2016/01/lOGO-3.png",
-				"contentUrl": "https://bitxfunding.com/wp-content/uploads/2016/01/lOGO-3.png",
-				"width": 250,
-				"height": 250,
-				"caption": "BitX Funding"
-			},
 			"image": "https://bitxfunding.com/wp-content/uploads/2016/01/lOGO-3.png",
-			"photo": "https://bitxfunding.com/wp-content/uploads/2016/01/lOGO-3.png",
 			"inLanguage": "en-US",
 			"datePublished": "2020-08-04T21:58:51+00:00",
 			"dateModified": "2021-10-19T17:57:16+00:00",
@@ -224,10 +214,7 @@
 						"https://bitxfunding.com/mid-term-business-loan/"
 					]
 				}
-			],
-			"breadcrumb": {
-				"@id": "https://bitxfunding.com/mid-term-business-loan/#breadcrumb"
-			}
+			]
 		},
 		{
 			"@type": "BreadcrumbList",

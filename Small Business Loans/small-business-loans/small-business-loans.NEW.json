@@ -1,3 +1,5 @@
+https://search.google.com/test/rich-results/result?id=eCTaFpWhENGi80Yf5293aw
+
 {
 	"@context": "https://schema.org",
 	"@graph": [
@@ -35,7 +37,6 @@
 				"caption": "BitX Funding"
 			},
 			"image": "https://bitxfunding.com/wp-content/uploads/2016/01/lOGO-3.png",
-			"photo": "https://bitxfunding.com/wp-content/uploads/2016/01/lOGO-3.png",
 			"description": "BitX Funding is your online marketplace for alternative small business loans and business insurance. From SBA, start-up lines of credit, short-term loans, mid-term loans to merchant cash advances and business lines of credit, BitX is where lenders compete for your business. Our top-rated lenders focus on real-life business data and cash flow, which means you can qualify for small business loans even if your credit score isn't perfect. We care about small business and it's our mission to secure the right funding when you need alternative small business loans within our small business loan marketplace. Applying is Easy, Fast and Free… Get started to see what your business qualifies for!",
 			"address": {
 				"@type": "PostalAddress",
@@ -463,18 +464,7 @@
 			"@id": "https://bitxfunding.com/small-business-loans/#webpage",
 			"url": "https://bitxfunding.com/small-business-loans/",
 			"description": "BitX Funding offers alternative small business loan services, SBA Loans, mid-term business loans, short-term business loans, merchant cash advances and loans for startup business funding. At BitX Funding, we can help you get the working capital you need and fund your small business. BitX Funding’s small business loan services make it easier for you to receive funding when you are ready. Our loan specialists are available 6 days a week to help you get the funds that your small business needs to thrive, helping you turn your company from a startup into a growing business ready for the future. We provide best unsecured alternative small business loan services within the shortest possible time, meaning you can spend less time waiting for your funding to be approved, and more time spent making meaningful changes to your enterprise, propelling it into a successful future.",
-		    "logo": {
-				"@type": "ImageObject",
-				"@id": "https://bitxfunding.com/#logo",
-				"inLanguage": "en-US",
-				"url": "https://bitxfunding.com/wp-content/uploads/2016/01/lOGO-3.png",
-				"contentUrl": "https://bitxfunding.com/wp-content/uploads/2016/01/lOGO-3.png",
-				"width": 250,
-				"height": 250,
-				"caption": "BitX Funding"
-			},
-			"image": "https://bitxfunding.com/wp-content/uploads/2016/01/lOGO-3.png",
-			"photo": "https://bitxfunding.com/wp-content/uploads/2016/01/lOGO-3.png",
+		    "image": "https://bitxfunding.com/wp-content/uploads/2016/01/lOGO-3.png",
 			"inLanguage": "en-US",
 			"datePublished": "2020-08-04T21:58:51+00:00",
 			"dateModified": "2021-10-19T17:57:16+00:00",
@@ -488,10 +478,7 @@
 						"https://bitxfunding.com/small-business-loans/"
 					]
 				}
-			],
-			"breadcrumb": {
-				"@id": "https://bitxfunding.com/small-business-loans/#breadcrumb"
-			}
+			]
 		},
 		{
 			"@type": "BreadcrumbList",

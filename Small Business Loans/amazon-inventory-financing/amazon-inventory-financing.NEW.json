@@ -1,3 +1,5 @@
+https://search.google.com/test/rich-results/result?id=KnigXiGV0t9-zFKCzo_j4Q
+
 {
 	"@context": "https://schema.org",
 	"@graph": [
@@ -194,18 +196,7 @@
 			"@id": "https://bitxfunding.com/amazon-inventory-financing/#webpage",
 			"url": "https://bitxfunding.com/amazon-inventory-financing/",
 			"description": "With BitX Funding you can get access to a large inventory line of credit to grow your business. With Amazon you are capped at $1 million in available credit so how can you grow your inventory from there? You can’t unless you are taking out expensive MCAs that steal all your profit margin. At BitX Funding, we will provide you with proven Amazon inventory financing for Amazon Power Sellers to grow past $1 million in inventory.",
-			"logo": {
-				"@type": "ImageObject",
-				"@id": "https://bitxfunding.com/#logo",
-				"inLanguage": "en-US",
-				"url": "https://bitxfunding.com/wp-content/uploads/2016/01/lOGO-3.png",
-				"contentUrl": "https://bitxfunding.com/wp-content/uploads/2016/01/lOGO-3.png",
-				"width": 250,
-				"height": 250,
-				"caption": "BitX Funding"
-			},
 			"image": "https://bitxfunding.com/wp-content/uploads/2016/01/lOGO-3.png",
-			"photo": "https://bitxfunding.com/wp-content/uploads/2016/01/lOGO-3.png",
 			"inLanguage": "en-US",
 			"datePublished": "2020-08-04T21:58:51+00:00",
 			"dateModified": "2021-10-19T17:57:16+00:00",
@@ -219,10 +210,7 @@
 						"https://bitxfunding.com/amazon-inventory-financing/"
 					]
 				}
-			],
-			"breadcrumb": {
-				"@id": "https://bitxfunding.com/amazon-inventory-financing/#breadcrumb"
-			}
+			]
 		},
 		{
 			"@type": "BreadcrumbList",

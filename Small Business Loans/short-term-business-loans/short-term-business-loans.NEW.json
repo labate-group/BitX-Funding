@@ -1,3 +1,5 @@
+https://search.google.com/test/rich-results/result?id=tWSvjEsBVrrthmq-e9GJPg
+
 {
 	"@context": "https://schema.org",
 	"@graph": [
@@ -25,7 +27,6 @@
 				"caption": "BitX Funding"
 			},
 			"image": "https://bitxfunding.com/wp-content/uploads/2016/01/lOGO-3.png",
-			"photo": "https://bitxfunding.com/wp-content/uploads/2016/01/lOGO-3.png",
 			"description": "BitX Funding is your premier lender for short-term small business loans, unsecured business loans, and small business loans that have automatic payments that take place daily or weekly. When financing an upcoming project with immediate return on your investment, our short-term small business loans may be the perfect option for you. Typical projects these loans are used for include remodeling your location, inventory deals, hiring employees for extra help, or marketing campaigns. Our loans range from $5,000 to $500,000 with terms from 3 months to 24 months.",
 			"loanTerm": {
 				"@type": "QuantitativeValue",
@@ -201,18 +202,7 @@
 			"@id": "https://bitxfunding.com/short-term-business-loans/#webpage",
 			"url": "https://bitxfunding.com/short-term-business-loans/",
 			"description": "BitX Funding is your premier lender for short-term small business loans, unsecured business loans, and small business loans that have automatic payments that take place daily or weekly. When financing an upcoming project with immediate return on your investment, our short-term small business loans may be the perfect option for you. Typical projects these loans are used for include remodeling your location, inventory deals, hiring employees for extra help, or marketing campaigns. Our loans range from $5,000 to $500,000 with terms from 3 months to 24 months.",
-			"logo": {
-				"@type": "ImageObject",
-				"@id": "https://bitxfunding.com/#logo",
-				"inLanguage": "en-US",
-				"url": "https://bitxfunding.com/wp-content/uploads/2016/01/lOGO-3.png",
-				"contentUrl": "https://bitxfunding.com/wp-content/uploads/2016/01/lOGO-3.png",
-				"width": 250,
-				"height": 250,
-				"caption": "BitX Funding"
-			},
 			"image": "https://bitxfunding.com/wp-content/uploads/2016/01/lOGO-3.png",
-			"photo": "https://bitxfunding.com/wp-content/uploads/2016/01/lOGO-3.png",
 			"inLanguage": "en-US",
 			"datePublished": "2020-08-04T21:58:51+00:00",
 			"dateModified": "2021-10-19T17:57:16+00:00",
@@ -226,10 +216,7 @@
 						"https://bitxfunding.com/short-term-business-loans/"
 					]
 				}
-			],
-			"breadcrumb": {
-				"@id": "https://bitxfunding.com/short-term-business-loans/#breadcrumb"
-			}
+			]
 		},
 		{
 			"@type": "BreadcrumbList",

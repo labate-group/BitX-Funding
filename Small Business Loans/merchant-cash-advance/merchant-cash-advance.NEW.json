@@ -1,3 +1,5 @@
+https://search.google.com/test/rich-results/result?id=2yf9LNbLEp5ClZt9EHqNLA
+
 {
 	"@context": "https://schema.org",
 	"@graph": [
@@ -25,7 +27,6 @@
 				"caption": "BitX Funding"
 			},
 			"image": "https://bitxfunding.com/wp-content/uploads/2016/01/lOGO-3.png",
-			"photo": "https://bitxfunding.com/wp-content/uploads/2016/01/lOGO-3.png",
 			"description": "BitX Funding is a lending partner that offers true Merchant Cash Advance with automatic fixed or percentage of sales daily or weekly payments via ACH Debit from merchant’s business bank account . If you're looking to finance a project that has an immediate return on investment such as updating or refreshing your location, inventory deals with a quick turnaround, marketing campaigns, seasonal hiring, or high demand inventory a Merchant Cash Advance loans are for you. They range from $5,000 to $500,000 with terms of 6 to 18 months and the cost of capital varies by term. Call to find out today if you are pre-approved.",
 			"loanTerm": {
 				"@type": "QuantitativeValue",
@@ -199,18 +200,7 @@
 			"@id": "https://bitxfunding.com/merchant-cash-advance/#webpage",
 			"url": "https://bitxfunding.com/merchant-cash-advance/",
 			"description": "BitX Funding is a lending partner that offers true Merchant Cash Advance with automatic fixed or percentage of sales daily or weekly payments via ACH Debit from merchant’s business bank account . If you're looking to finance a project that has an immediate return on investment such as updating or refreshing your location, inventory deals with a quick turnaround, marketing campaigns, seasonal hiring, or high demand inventory a Merchant Cash Advance loans are for you. They range from $5,000 to $500,000 with terms of 6 to 18 months and the cost of capital varies by term. Call to find out today if you are pre-approved.",
-			"logo": {
-				"@type": "ImageObject",
-				"@id": "https://bitxfunding.com/#logo",
-				"inLanguage": "en-US",
-				"url": "https://bitxfunding.com/wp-content/uploads/2016/01/lOGO-3.png",
-				"contentUrl": "https://bitxfunding.com/wp-content/uploads/2016/01/lOGO-3.png",
-				"width": 250,
-				"height": 250,
-				"caption": "BitX Funding"
-			},
 			"image": "https://bitxfunding.com/wp-content/uploads/2016/01/lOGO-3.png",
-			"photo": "https://bitxfunding.com/wp-content/uploads/2016/01/lOGO-3.png",
 			"inLanguage": "en-US",
 			"datePublished": "2020-08-04T21:58:51+00:00",
 			"dateModified": "2021-10-19T17:57:16+00:00",
@@ -224,10 +214,7 @@
 						"https://bitxfunding.com/merchant-cash-advance/"
 					]
 				}
-			],
-			"breadcrumb": {
-				"@id": "https://bitxfunding.com/merchant-cash-advance/#breadcrumb"
-			}
+			]
 		},
 		{
 			"@type": "BreadcrumbList",

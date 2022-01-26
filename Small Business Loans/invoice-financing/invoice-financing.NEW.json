@@ -1,3 +1,5 @@
+https://search.google.com/test/rich-results/result?id=xEaSofp4YxUrVsruE8qpGA
+
 {
 	"@context": "https://schema.org",
 	"@graph": [
@@ -25,7 +27,6 @@
 				"caption": "BitX Funding"
 			},
 			"image": "https://bitxfunding.com/wp-content/uploads/2016/01/lOGO-3.png",
-			"photo": "https://bitxfunding.com/wp-content/uploads/2016/01/lOGO-3.png",
 			"description": "Invoice financing, often called accounts receivable financing, is a type of asset-based financing solution that allows business owners to free up unpaid invoices. Invoice financing companies advance you cash collateralized by your accounts receivable, giving you an excellent way to put money back into your business. With invoice financing for small businesses, you can get a fast advance of about 85% of the value of your invoices, with most of the other 15% paid to you later.",
 			"annualPercentageRate": {
 				"@type": "QuantitativeValue",
@@ -194,18 +195,7 @@
 			"@id": "https://bitxfunding.com/invoice-financing/#webpage",
 			"url": "https://bitxfunding.com/invoice-financing/",
 			"description": "Invoice financing, often called accounts receivable financing, is a type of asset-based financing solution that allows business owners to free up unpaid invoices. Invoice financing companies advance you cash collateralized by your accounts receivable, giving you an excellent way to put money back into your business. With invoice financing for small businesses, you can get a fast advance of about 85% of the value of your invoices, with most of the other 15% paid to you later.",
-			"logo": {
-				"@type": "ImageObject",
-				"@id": "https://bitxfunding.com/#logo",
-				"inLanguage": "en-US",
-				"url": "https://bitxfunding.com/wp-content/uploads/2016/01/lOGO-3.png",
-				"contentUrl": "https://bitxfunding.com/wp-content/uploads/2016/01/lOGO-3.png",
-				"width": 250,
-				"height": 250,
-				"caption": "BitX Funding"
-			},
 			"image": "https://bitxfunding.com/wp-content/uploads/2016/01/lOGO-3.png",
-			"photo": "https://bitxfunding.com/wp-content/uploads/2016/01/lOGO-3.png",
 			"inLanguage": "en-US",
 			"datePublished": "2020-08-04T21:58:51+00:00",
 			"dateModified": "2021-10-19T17:57:16+00:00",
@@ -219,10 +209,7 @@
 						"https://bitxfunding.com/invoice-financing/"
 					]
 				}
-			],
-			"breadcrumb": {
-				"@id": "https://bitxfunding.com/invoice-financing/#breadcrumb"
-			}
+			]
 		},
 		{
 			"@type": "BreadcrumbList",

@@ -1,3 +1,5 @@
+https://search.google.com/test/rich-results/result?id=ysx6pmDy3pgkiFsCwxRKbw
+
 {
 	"@context": "https://schema.org",
 	"@graph": [
@@ -25,7 +27,6 @@
 				"caption": "BitX Funding"
 			},
 			"image": "https://bitxfunding.com/wp-content/uploads/2016/01/lOGO-3.png",
-			"photo": "https://bitxfunding.com/wp-content/uploads/2016/01/lOGO-3.png",
 			"description": "Business equipment financing helps you finance up to 100% of the new or used equipment you need for your business. Applying for an equipment loan is typically a fast and easy way to finance the purchase of most types of equipment—computers, machinery, vehicles, or whatever else you need.",
 			"loanTerm": {
 				"@type": "QuantitativeValue",
@@ -199,18 +200,7 @@
 			"@id": "https://bitxfunding.com/equipment-financing/#webpage",
 			"url": "https://bitxfunding.com/equipment-financing/",
 			"description": "Business equipment financing helps you finance up to 100% of the new or used equipment you need for your business. Applying for an equipment loan is typically a fast and easy way to finance the purchase of most types of equipment—computers, machinery, vehicles, or whatever else you need.",
-			"logo": {
-				"@type": "ImageObject",
-				"@id": "https://bitxfunding.com/#logo",
-				"inLanguage": "en-US",
-				"url": "https://bitxfunding.com/wp-content/uploads/2016/01/lOGO-3.png",
-				"contentUrl": "https://bitxfunding.com/wp-content/uploads/2016/01/lOGO-3.png",
-				"width": 250,
-				"height": 250,
-				"caption": "BitX Funding"
-			},
 			"image": "https://bitxfunding.com/wp-content/uploads/2016/01/lOGO-3.png",
-			"photo": "https://bitxfunding.com/wp-content/uploads/2016/01/lOGO-3.png",
 			"inLanguage": "en-US",
 			"datePublished": "2020-08-04T21:58:51+00:00",
 			"dateModified": "2021-10-19T17:57:16+00:00",
@@ -224,10 +214,7 @@
 						"https://bitxfunding.com/equipment-financing/"
 					]
 				}
-			],
-			"breadcrumb": {
-				"@id": "https://bitxfunding.com/equipment-financing/#breadcrumb"
-			}
+			]
 		},
 		{
 			"@type": "BreadcrumbList",
