@@ -93,19 +93,6 @@ https://search.google.com/test/rich-results/result?id=UIQfwrkBXm_O_9qyZvXYqQ
 						},
 						"url": "https://bitxfunding.com/contact/",
 						"result": "Has emailed the BitX Funding"
-					},
-					{
-						"@type": "CommunicateAction",
-						"actionStatus": "potentialActionStatus",
-						"object": "Request Consultation",
-						"name": "Request Consultation",
-						"description": "Request consultation with BitX Funding",
-						"target": {
-							"httpMethod": "GET",
-							"URL": "https://bitxfunding.com/contact/"
-						},
-						"url": "https://bitxfunding.com/contact/",
-						"result": "Has requested a consultation with BitX Funding"
 					}
 				]
 			},
