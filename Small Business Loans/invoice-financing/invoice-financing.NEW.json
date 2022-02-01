@@ -1,8 +1,178 @@
-https://search.google.com/test/rich-results/result?id=XYZtFIKs42yaVzqCHuliOg
+Updated Result Link: https://search.google.com/test/rich-results/result?id=VOIJAEzQ39dJGL7vmFc93w
 
 {
 	"@context": "https://schema.org",
 	"@graph": [
+		{
+			"@type": "FinancialService",
+			"@id": "https://bitxfunding.com/#financialservice",
+			"url": "https://bitxfunding.com/",
+			"sameAs": [
+				"https://www.facebook.com/bitxfunding",
+				"https://www.instagram.com/bitxfunding",
+				"http://www.linkedin.com/company/bitx-funding",
+				"https://www.youtube.com/results?q=bitx funding",
+				"https://twitter.com/BitXFunding"
+			],
+			"name": "BitX Funding - Small Business Loans and Business Lines of Credit",
+			"slogan": "Small Business Loans and Business Lines of Credit",
+			"alternateName": "BitX Funding - Alternative Small Business Loans",
+			"legalName": "BitX Funding, L.L.C.",
+			"brand": "BitX Funding",
+			"telephone": "800-824-2407",
+			"faxNumber": "800-826-6403",
+			"email": "info@bitxfunding.com",
+			"aggregateRating": {
+				"@type": "AggregateRating",
+				"ratingValue": "4.9",
+				"reviewCount": "48"
+			},
+			"logo": {
+				"@id": "https://bitxfunding.com/#logo"
+			},
+			"image": "https://bitxfunding.com/wp-content/uploads/2016/01/lOGO-3.png",
+			"photo": "https://bitxfunding.com/wp-content/uploads/2016/01/lOGO-3.png",
+			"description": "BitX Funding is your online marketplace for alternative small business loans and business insurance. From SBA, start-up lines of credit, short-term loans, mid-term loans to merchant cash advances and business lines of credit, BitX is where lenders compete for your business. Our top-rated lenders focus on real-life business data and cash flow, which means you can qualify for small business loans even if your credit score isn't perfect. We care about small business and it's our mission to secure the right funding when you need alternative small business loans within our small business loan marketplace. Applying is Easy, Fast and Free… Get started to see what your business qualifies for!",
+			"address": {
+				"@type": "PostalAddress",
+				"streetAddress": "1700 Post Rd Suite B-10",
+				"addressLocality": "Fairfield",
+				"addressRegion": "CT",
+				"postalCode": "06824",
+				"addressCountry": "United States"
+			},
+			"location": {
+				"@type": "PostalAddress",
+				"streetAddress": "1700 Post Rd Suite B-10",
+				"addressLocality": "Fairfield",
+				"addressRegion": "CT",
+				"postalCode": "06824",
+				"addressCountry": "United States"
+			},
+			"geo": {
+				"@type": "GeoCoordinates",
+				"latitude": "41.1413029",
+				"longitude": "-73.2613782"
+			},
+			"hasMap": "https://www.google.com/maps/place/BitX+Funding/@41.1413029,-73.2613782,15z/data=!4m5!3m4!1s0x0:0x9e2ab3f0d51d50d0!8m2!3d41.1413029!4d-73.2613782",
+			"openingHours": "Mo, Tu, We, Th 08:00-05:00",
+			"contactPoint": {
+				"@type": "ContactPoint",
+				"telephone": "+1 (800) 824-2407",
+				"contactType": "General"
+			},
+			"currenciesAccepted": "USD",
+			"paymentAccepted": "Cash, Credit Card",
+			"priceRange": "$$$",
+			"potentialAction": [
+				{
+					"@type": "CommunicateAction",
+					"actionStatus": "potentialActionStatus",
+					"object": "Call",
+					"name": "Call BitX Funding",
+					"description": "Make a telephone call BitX Funding",
+					"target": {
+						"URL": "tel:+1-800-824-2407"
+					},
+					"mainEntityOfPage": "https://bitxfunding.com/contact/",
+					"result": "Has called BitX Funding"
+				},
+				{
+					"@type": "CommunicateAction",
+					"actionStatus": "potentialActionStatus",
+					"object": "Email",
+					"name": "Email the BitX Funding",
+					"description": "Send an email to BitX Funding",
+					"target": {
+						"URL": "mailto:info@bitxfunding.com"
+					},
+					"mainEntityOfPage": "https://bitxfunding.com/contact/",
+					"result": "Has emailed the BitX Funding"
+				}
+			],
+			"founder": {
+				"@id": "https://bitxfunding.com/our-company-lending-partner/#founder"
+			},
+			"areaServed": [
+				{
+					"@type": "Place",
+					"address": {
+						"@type": "PostalAddress",
+						"addressCountry": "United States"
+					}
+				},
+				{
+					"@type": "Place",
+					"address": {
+						"@type": "PostalAddress",
+						"addressCountry": "Canada"
+					}
+				}
+			],
+			"foundingLocation": {
+				"@type": "Place",
+				"address": {
+					"@type": "PostalAddress",
+					"addressCountry": "Canada"
+				}
+			},
+			"feesAndCommissionsSpecification": "https://bitxfunding.com/small-business-loans/",
+			"hasCredential": {
+				"@type": "EducationalOccupationalCredential",
+				"name": "A+ Better Business Bureau Accreditation Rating",
+				"description": "BitX Funding L.L.C. is A+ accredited with the Better Business Bureau",
+				"url": "https://www.bbb.org/us/ct/fairfield/profile/small-business-loans/bitx-funding-llc-0111-87118434",
+				"credentialCategory": {
+					"@type": "DefinedTerm",
+					"name": "Accredited"
+				},
+				"competencyRequired": {
+					"@type": "DefinedTerm",
+					"name": "BBB Accreditation Standards",
+					"url": "https://www.bbb.org/bbb-accreditation-standards"
+				}
+			},
+			"numberOfEmployees": "10",
+			"smokingAllowed": "False"
+		},
+		{
+			"@type": "ImageObject",
+			"@id": "https://bitxfunding.com/#logo",
+			"inLanguage": "en-US",
+			"url": "https://bitxfunding.com/wp-content/uploads/2016/01/lOGO-3.png",
+			"contentUrl": "https://bitxfunding.com/wp-content/uploads/2016/01/lOGO-3.png",
+			"width": 250,
+			"height": 250,
+			"caption": "BitX Funding"
+		},
+		{
+			"@type": "WebSite",
+			"@id": "https://bitxfunding.com/#website",
+			"url": "https://bitxfunding.com/",
+			"name": "BitX Funding - Small Business Loans and Business Lines of Credit",
+			"alternateName": "BitX Funding - Alternative Small Business Loans",
+			"description": "BitX Funding is your online marketplace for small business loans. From start-up loans, short-term loans to merchant cash advances and lines of credit, BitX is where lenders compete for your business.",
+			"thumbnailUrl": "https://bitxfunding.com/wp-content/uploads/2016/01/lOGO-3.png",
+			"image": {
+				"@id": "https://bitxfunding.com/#logo"
+			},
+			"publisher": {
+				"@id": "https://bitxfunding.com/#financialservice"
+			},
+			"author": {
+				"@id": "https://bitxfunding.com/#financialservice"
+			},
+			"potentialAction": [
+				{
+					"@type": "SearchAction",
+					"target": {
+						"@type": "EntryPoint",
+						"urlTemplate": "https://bitxfunding.com/?s={search_term_string}"
+					},
+					"query-input": "required name=search_term_string"
+				}
+			]
+		},
 		{
 			"@type": "LoanOrCredit",
 			"name": "Invoice Financing - BitX Funding",
@@ -17,14 +187,7 @@ https://search.google.com/test/rich-results/result?id=XYZtFIKs42yaVzqCHuliOg
 				"https://twitter.com/BitXFunding"
 			],
 			"logo": {
-				"@type": "ImageObject",
-				"@id": "https://bitxfunding.com/#logo",
-				"inLanguage": "en-US",
-				"url": "https://bitxfunding.com/wp-content/uploads/2016/01/lOGO-3.png",
-				"contentUrl": "https://bitxfunding.com/wp-content/uploads/2016/01/lOGO-3.png",
-				"width": 250,
-				"height": 250,
-				"caption": "BitX Funding"
+				"@id": "https://bitxfunding.com/#logo"
 			},
 			"image": "https://bitxfunding.com/wp-content/uploads/2016/01/lOGO-3.png",
 			"description": "Invoice financing, often called accounts receivable financing, is a type of asset-based financing solution that allows business owners to free up unpaid invoices. Invoice financing companies advance you cash collateralized by your accounts receivable, giving you an excellent way to put money back into your business. With invoice financing for small businesses, you can get a fast advance of about 85% of the value of your invoices, with most of the other 15% paid to you later.",
@@ -120,19 +283,6 @@ https://search.google.com/test/rich-results/result?id=XYZtFIKs42yaVzqCHuliOg
 					},
 					"url": "https://bitxfunding.com/contact/",
 					"result": "Has emailed the BitX Funding"
-				},
-				{
-					"@type": "CommunicateAction",
-					"actionStatus": "potentialActionStatus",
-					"object": "Request Consultation",
-					"name": "Request Consultation",
-					"description": "Request consultation with BitX Funding",
-					"target": {
-						"httpMethod": "GET",
-						"URL": "https://bitxfunding.com/contact/"
-					},
-					"url": "https://bitxfunding.com/contact/",
-					"result": "Has requested a consultation with BitX Funding"
 				}
 			],
 			"areaServed": [
@@ -149,30 +299,6 @@ https://search.google.com/test/rich-results/result?id=XYZtFIKs42yaVzqCHuliOg
 						"@type": "PostalAddress",
 						"addressCountry": "Canada"
 					}
-				}
-			]
-		},
-		{
-			"@type": "WebSite",
-			"@id": "https://bitxfunding.com/#website",
-			"url": "https://bitxfunding.com/",
-			"name": "BitX Funding - Small Business Loans and Business Lines of Credit",
-			"alternateName": "BitX Funding - Alternative Small Business Loans",
-			"description": "BitX Funding is your online marketplace for small business loans. From start-up loans, short-term loans to merchant cash advances and lines of credit, BitX is where lenders compete for your business.",
-			"publisher": {
-				"@id": "https://bitxfunding.com/#financialservice"
-			},
-			"author": {
-				"@id": "https://bitxfunding.com/#financialservice"
-			},
-			"potentialAction": [
-				{
-					"@type": "SearchAction",
-					"target": {
-						"@type": "EntryPoint",
-						"urlTemplate": "https://bitxfunding.com/?s={search_term_string}"
-					},
-					"query-input": "required name=search_term_string"
 				}
 			]
 		},
@@ -227,29 +353,25 @@ https://search.google.com/test/rich-results/result?id=XYZtFIKs42yaVzqCHuliOg
 			"@type": "Person",
 			"name": "Todd Rowe",
 			"description": "Todd Rowe is the president and founder of BitX Funding and brings over 20 years of experience in managing sales for rapidly growing organizations. Previously, he served as Director of Sales for Paychex Inc. In this role, Todd grew the client base from 200 to over 3,000 small business owners – landing him in the top 1% of the company ten years in a row. Todd has also held various Senior Management Positions including serving as Senior Business Development Manager at OnDeck Capital, Inc. a 2007 small business financing start up, Director of Sales at TriNet, Inc. a professional employer organization and Public Sector Account Executive at Sprint. Todd holds a Bachelor Degree in Business Administration from New England College and is a Fairfield Chamber of Commerce Board Member.",
-			"url": "https://bitxfunding.com/#website",
+			"@id": "https://bitxfunding.com/our-company-lending-partner/#founder",
+			"url": "https://bitxfunding.com/our-company-lending-partner/",
 			"sameAs": [
 				"https://www.linkedin.com/in/toddrowe1/",
 				"https://www.zoominfo.com/p/Todd-Rowe/696670244"
 			],
+			"image": {
+				"@type": "ImageObject",
+				"@id": "https://bitxfunding.com/our-company-lending-partner/#personlogo",
+				"inLanguage": "en-US",
+				"url": "https://bitxfunding.com/wp-content/uploads/2015/08/Todd-Pic-Website-3-300x221.png",
+				"contentUrl": "https://bitxfunding.com/wp-content/uploads/2015/08/Todd-Pic-Website-3-300x221.png",
+				"caption": "BitX Funding President - Todd Rowe"
+			},
 			"affiliation": {
-				"@type": "FinancialService",
-				"name": "BitX Funding - Small Business Loans and Business Lines of Credit",
-				"legalName": "BitX Funding, L.L.C.",
-				"brand": "BitX Funding",
-				"url": "https://bitxfunding.com/#website",
-				"logo": "https://bitxfunding.com/wp-content/uploads/2016/01/lOGO-3.png",
-				"image": "https://bitxfunding.com/wp-content/uploads/2016/01/lOGO-3.png",
-				"telephone": "800-824-2407",
-				"priceRange": "$$$",
-				"address": {
-					"@type": "PostalAddress",
-					"streetAddress": "1700 Post Rd Suite B-10",
-					"addressLocality": "Fairfield",
-					"addressRegion": "CT",
-					"postalCode": "06824",
-					"addressCountry": "United States"
-				}
+				"@id": "https://bitxfunding.com/#financialorganization"
+			},
+			"worksFor": {
+				"@id": "https://bitxfunding.com/#financialorganization"
 			},
 			"alumniOf": [
 				{
