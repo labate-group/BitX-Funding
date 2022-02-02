@@ -744,51 +744,6 @@ Updated Result Link: https://search.google.com/test/rich-results/result?id=nCUVJ
 					"postalCode": "06824",
 					"addressCountry": "United States"
 				}
-			},
-			"alumniOf": [
-				{
-					"@type": "FinancialService",
-					"name": "Paychex",
-					"legalName": "Paychex Inc.",
-					"brand": "Paychex",
-					"url": "https://www.paychex.com/",
-					"logo": "https://www.paychex.com/themes/custom/paychex2/images/svg/logo-paychex.svg"
-				},
-				{
-					"@type": "FinancialService",
-					"name": "OnDeck Capital",
-					"legalName": "OnDeck Capital, Inc.",
-					"brand": "OnDeck Capital",
-					"url": "https://www.ondeck.com/",
-					"logo": "https://www.ondeck.com/wp-content/uploads/2016/09/press2-300x300.png"
-				},
-				{
-					"@type": "FinancialService",
-					"name": "TriNet",
-					"legalName": "TriNet, Inc.",
-					"brand": "TriNet",
-					"url": "https://www.trinet.com/",
-					"logo": "https://www.trinet.com/assets/img/content/email/trinet-email-logo.jpg"
-				},
-				{
-					"@type": "Organization",
-					"name": "Sprint - T-Mobile",
-					"url": "https://www.t-mobile.com",
-					"logo": "https://cdn.tmobile.com/content/dam/t-mobile/ntm/branding/logos/corporate/tmo-logo-v3.svg"
-				},
-				{
-					"@type": "Organization",
-					"name": "New England College",
-					"url": "https://www.nec.edu",
-					"logo": "https://44iofm20tyvs2xet4b3sk1yt-wpengine.netdna-ssl.com/wp-content/uploads/2021/01/logo.svg"
-				}
-			],
-			"memberOf": {
-				"@type": "Organization",
-				"name": "Fairfield Chamber of Commerce",
-				"description": "Fairfield Chamber of Commerce Board Member.",
-				"url": "http://fairfieldctchamber.com/",
-				"logo": "https://fairfieldctchamber.com/wp-content/themes/ffchamber-child/images/logo.png"
 			}
 		}
 	]
