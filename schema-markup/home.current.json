@@ -1,0 +1,102 @@
+{
+	"@context": "https://schema.org",
+	"@graph": [
+		{
+			"@type": "Organization",
+			"@id": "https://bitxfunding.com/#organization",
+			"name": "BitX Funding",
+			"url": "https://bitxfunding.com/",
+			"sameAs": [
+				"https://www.facebook.com/bitxfunding",
+				"https://www.instagram.com/bitxfunding",
+				"http://www.linkedin.com/company/bitx-funding",
+				"https://www.youtube.com/results?q=bitx funding",
+				"https://twitter.com/BitXFunding"
+			],
+			"logo": {
+				"@type": "ImageObject",
+				"@id": "https://bitxfunding.com/#logo",
+				"inLanguage": "en-US",
+				"url": "https://bitxfunding.com/wp-content/uploads/2016/01/lOGO-3.png",
+				"contentUrl": "https://bitxfunding.com/wp-content/uploads/2016/01/lOGO-3.png",
+				"width": 250,
+				"height": 250,
+				"caption": "BitX Funding"
+			},
+			"image": {
+				"@id": "https://bitxfunding.com/#logo"
+			}
+		},
+		{
+			"@type": "WebSite",
+			"@id": "https://bitxfunding.com/#website",
+			"url": "https://bitxfunding.com/",
+			"name": "Alternative Small Business Loans",
+			"description": "BitX Funding is your online marketplace for small business loans. From start-up loans, short-term loans to merchant cash advances and lines of credit, BitX is where lenders compete for your business.",
+			"publisher": {
+				"@id": "https://bitxfunding.com/#organization"
+			},
+			"potentialAction": [
+				{
+					"@type": "SearchAction",
+					"target": {
+						"@type": "EntryPoint",
+						"urlTemplate": "https://bitxfunding.com/?s={search_term_string}"
+					},
+					"query-input": "required name=search_term_string"
+				}
+			],
+			"inLanguage": "en-US"
+		},
+		{
+			"@type": "ImageObject",
+			"@id": "https://bitxfunding.com/#primaryimage",
+			"inLanguage": "en-US",
+			"url": "https://bitxfunding.com/wp-content/uploads/2015/03/check.png",
+			"contentUrl": "https://bitxfunding.com/wp-content/uploads/2015/03/check.png",
+			"width": 70,
+			"height": 70
+		},
+		{
+			"@type": "WebPage",
+			"@id": "https://bitxfunding.com/#webpage",
+			"url": "https://bitxfunding.com/",
+			"name": "Small Business Loans and Business Lines of Credit - BitX Funding",
+			"isPartOf": {
+				"@id": "https://bitxfunding.com/#website"
+			},
+			"about": {
+				"@id": "https://bitxfunding.com/#organization"
+			},
+			"primaryImageOfPage": {
+				"@id": "https://bitxfunding.com/#primaryimage"
+			},
+			"datePublished": "2015-03-14T19:23:32+00:00",
+			"dateModified": "2021-10-21T16:19:57+00:00",
+			"description": "BitX Funding is your online marketplace for alternative small business loans. We can provide you with the best business loan options. Apply. Qualify. Get Funding",
+			"breadcrumb": {
+				"@id": "https://bitxfunding.com/#breadcrumb"
+			},
+			"inLanguage": "en-US",
+			"potentialAction": [
+				{
+					"@type": "ReadAction",
+					"target": [
+						"https://bitxfunding.com/"
+					]
+				}
+			]
+		},
+		{
+			"@type": "BreadcrumbList",
+			"@id": "https://bitxfunding.com/#breadcrumb",
+			"itemListElement": [
+				{
+					"@type": "ListItem",
+					"position": 1,
+					"name": "Home"
+				}
+			]
+		}
+	]
+}
